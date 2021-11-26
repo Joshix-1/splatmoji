@@ -1,3 +1,347 @@
+‾	overstrek
+_	understrek
+-	bindestrek-minus-tegn
+‐	bindestrek
+–	bindestreker, en-dash, halvgefirt, tankestrek
+—	bindestreker, em-dash, gefirt, lang tankestrek
+―	strek, vannrett strek
+・	bindestrek, interpunkt, katakana, midtstilt prikk i katakana, prikk, punkt
+,	komma
+،	arabisk komma, komma
+、	ideografisk komma, komma
+;	semikolon
+؛	arabisk semikolon, semikolon
+:	kolon
+!	utropstegn
+¡	opp-ned utropstegn, utropstegn
+?	spørsmål, spørsmålstegn
+¿	opp-ned spørsmålstegn, spørsmål, spørsmålstegn
+؟	arabisk spørsmålstegn, spørsmål, spørsmålstegn
+‽	interrobang
+.	punktum
+…	ellipse, tre prikker, utelatelse
+。	ideografisk punktum, punktum
+·	interpunkt, midtstilt punkt, punkt mellom ord, sentrert punkt
+'	apostrof, enkelt rett anførselstegn, rett apostrof, sitattegn
+‘	enkelt krøllet venstre anførselstegn, sitattegn, smart anførselstegn, start sitat
+’	apostrof, enkelt krøllet høyre anførselstegn, sitat slutt, sitattegn, smart anførselstegn, typografisk apostrof
+‚	enkelt krøllet lavt venstre anførselstegn, sitattegn, smart anførselstegn, start sitat
+“	dobbelt krøllet venstre anførselstegn, sitattegn, smart anførselstegn, start sitat
+”	dobbelt krøllet høyre anførselstegn, sitat slutt, sitattegn, smart anførselstegn
+„	dobbelt krøllet lavt venstre anførselstegn, sitattegn, smart anførselstegn, start sitat
+«	anførselstegn, hermetegn, sitat start, sitattegn, sjevron, venstre anførselstegn
+»	anførselstegn, hermetegn, høyre anførselstegn, sitat slutt, sitattegn, sjevron
+)	bueparentes, høyre parentes, parentes, sluttparentes
+[	firkantparentes, klammeparentes, parentes, startparentes, venstre hakeparentes
+]	firkantparentes, høyre hakeparentes, klammeparentes, parentes, sluttparentes
+{	klammeparentes, krøllparentes, parentes, startparentes, venstre krøllparentes
+}	høyre krøllparentes, klammeparentes, krøllparentes, parentes, sluttparentes
+〈	parentes, spissparentes, startparentes, venstre vinkelparentes, vinkelparentes
+〉	høyre vinkelparentes, parentes, sluttparentes, spissparentes, vinkelparentes
+《	dobbelparentes, parentes, spissparentes, startparentes, venstre dobbel vinkelparentes, vinkelparentes
+》	dobbelparentes, høyre dobbel vinkelparentes, parentes, sluttparentes, spissparentes, vinkelparentes
+「	hjørneparentes, parentes, startparentes, venstre hjørneparentes
+」	hjørneparentes, høyre hjørneparentes, parentes, sluttparentes
+『	hjørneparentes, hul parentes, parentes, startparentes, venstre hul hjørneparentes
+』	hjørneparentes, hul parentes, høyre hul hjørneparentes, parentes, sluttparentes
+【	fylt parentes, linseparentes, parentes, startparentes, svart parentes, venstre fylt linseparentes
+】	fylt parentes, høyre fylt linseparentes, linseparentes, parentes, sluttparentes, svart parentes
+〔	parentes, skillpaddeskall, skillpaddeskallparentes, startparentes, venstre skilpaddeparentes
+〕	høyre skilpaddeparentes, parentes, skillpaddeskall, skillpaddeskallparentes, sluttparentes
+〖	hul parentes, linseparentes, parentes, startparentes, venstre hul linseparentes
+〗	hul parentes, høyre hul linseparentes, linseparentes, parentes, sluttparentes
+§	avsnittstegn, del, paragraf, paragraftegn, signum sectionis
+¶	avsnittstegn
+@	alfakrøll, at-tegn, krøllalfa
+*️	asterisk, jokertegn, stjerne
+/	skråstrek, slash
+\	backslash, bakstrek, omvendt skråstrek
+&	ampersand, et, et-tegn, og, og-tegn
+#️	emneknagg, firkant, hashtagg, nummertegn, skigard
+%	prosent, prosenttegn
+‰	promille, promilletegn
+†	kors, korstegn, latinsk kors
+‡	dobbelt kors, dobbeltkorstegn
+•	prikk, punkt, punktliste, punkttegn
+‧	bindestrek, interpunkt, prikk, punkt, stavelsesmerke
+′	primtegn
+″	dobbelt primtegn
+‴	trippelt primtegn
+‸	innsettingstegn
+※	referansemerke
+⁂	asterisme
+`	aksent, gravis, tonem, trykk, venstreaksent
+´	aksent, akutt, akutt aksent, høyreaksent, tonem, trykk
+^	aksent, circumfleks, tonem
+¨	omlyd, trema, tødler
+°	alkoholinnhold, grader, gradetegn, timer
+℗	copyright, lydopptak, opphavsrett for lydopptak
+←	pil mot venstre, pil venstre, retning, venstre, venstrepil, vest
+↚	pil venstre med strek
+→	høyre, høyrepil, pil høyre, pil mot høyre, retning, øst
+↛	pil høyre med strek
+↑	nord, opp, oppover, oppoverpil, pil opp, pil oppover, retning
+↓	ned, nedover, nedoverpil, pil ned, pil nedover, retning, sør
+↜	bølgepil mot venstre med strek
+↝	bølgepil mot høyre med strek
+↞	pil venstre med to mothaker
+↟	pil opp med to mothaker
+↠	pil høyre med to mothaker
+↡	pil ned med to mothaker
+↢	pil venstre med styrefjær
+↣	pil høyre med styrefjær
+↤	pil venstre fra loddrett strek
+↥	pil opp fra vannrett strek
+↦	pil høyre fra loddrett strek
+↧	pil ned fra vannrett strek
+↨	pil opp og ned med underlag
+↫	pil venstre med løkke
+↬	pil høyre med løkke
+↭	bølgepil mot høyre og venstre
+↯	sikksakkpil nedover
+↰	pil opp med spiss mot venstre
+↱	pil opp med spiss mot høyre
+↲	pil ned med spiss mot venstre
+↳	pil ned med spiss mot høyre
+↴	pil høyre som snur ned
+↵	pil ned som snur mot venstre
+↶	halvsirkelpil mot klokken
+↷	halvsirkelpil med klokken
+↸	pil mot nordvest med strek over
+↹	pil venstre mot loddrett strek over pil høyre mot loddrett strek
+↺	pil åpen sirkel mot klokken
+↻	pil åpen sirkel med klokken
+↼	harpunpil venstre med mothake opp
+↽	harpunpil venstre med mothake ned
+↾	harpunpil opp med mothake mot høyre
+↿	harpunpil opp med mothake mot venstre
+⇀	harpunpil høyre med mothake opp
+⇁	harpunpil høyre med mothake ned
+⇂	harpunpil ned med mothake mot høyre
+⇃	harpunpil ned med mothake mot venstre
+⇄	pil høyre over pil venstre
+⇅	hver vei, nord-sør, opp og ned, opp-ned, pil oppover foran pil nedover, piler
+⇆	frem og tilbake, hver vei, pil mot venstre over pil mot høyre, piler, venstre-høyre, øst-vest
+⇇	parallelle piler mot venstre
+⇈	parallelle piler opp
+⇉	parallelle piler mot høyre
+⇊	parallelle piler ned
+⇋	harpunpil mot venstre over harpunpil mot høyre
+⇌	harpunpil mot høyre over harpunpil mot venstre
+⇐	dobbeltpil venstre
+⇍	dobbeltpil venstre med strek
+⇑	dobbeltpil opp
+⇒	dobbeltpil høyre
+⇏	dobbeltpil høyre med strek
+⇓	dobbeltpil ned
+⇔	dobbeltpil begge veier
+⇎	dobbeltpil med strek begge veier
+⇖	dobbeltpil nordvest
+⇗	dobbeltpil nordøst
+⇘	dobbeltpil sørøst
+⇙	dobbeltpil sørvest
+⇚	trippelpil venstre
+⇛	trippelpil høyre
+⇜	snirkelpil venstre
+⇝	snirkelpil høyre
+⇞	pil opp med to streker
+⇟	pil ned med to streker
+⇠	stiplet pil venstre
+⇡	stiplet pil opp
+⇢	stiplet pil høyre
+⇣	stiplet pil ned
+⇤	pil venstre mot loddrett strek
+⇥	pil høyre mot loddrett strek
+⇦	hul pil venstre
+⇧	hul pil opp
+⇨	hul pil høyre
+⇩	hul pil ned
+⇪	hul pil opp fra vannrett strek
+⇵	pil ned til høyre for pil opp
+∀	allkvantor
+∂	partielt derivert
+∃	eksistenskvantor
+∅	den tomme mengden
+∆	dekrement, delta, inkrement, matematisk endring, matematiske tegn, trekant
+∇	matematiske tegn, nabla, trekant, triangel, vektorfelt, vektoroperator
+∈	element i, elementsymbol, matematiske tegn, mengdelære
+∉	ikke element i
+∋	inneholder som medlem
+∎	slutt på bevis
+∏	produktserie
+∑	sum av en rekke
++	addere, legge til, pluss, plusstegn
+±	pluss/minus
+÷	dele, deletegn, dividere, divisjon, divisjonstegn, matematiske tegn
+×	gange, gangetegn, matematiske tegn, multiplikasjon, multiplikasjonstegn, multiplisere
+<	er mindre enn, mindre enn, starttagg, ulikhet
+≮	ikke mindre enn
+=	er lik, likhetstegn
+≠	er ikke lik, ulikhet, ulikhetstegn
+>	endetagg, er større enn, større enn, ulikhet
+≯	ikke større enn
+¬	ikke, negasjon
+|	loddrett strek, strek
+~	tilde
+−	minus, minustegn, subtrahere, trekke fra
+⁻	hevet, hevet minustegn, ion, matematiske tegn, minus, negativ ladning
+∓	minus-eller-pluss
+∕	divisjonstegn
+⁄	skråtegn for brøk
+∗	asteriskoperator
+∘	ringoperator
+∙	punktoperator
+√	kvadratrot, kvadratrottegn, matematiske tegn
+∝	proporsjonal med
+∞	matematiske tegn, uendelig, uendelighetstegn
+∟	rett vinkel
+∠	vinkel
+∣	divisor
+∥	parallell
+∧	og-junktor
+∩	matematiske tegn, mengdelære, snitt, snittegn
+∪	forening, matematiske tegn, mengdelære, union, uniontegn
+∫	integraltegn
+∬	dobbeltintegraltegn
+∮	sirkulasjonsintegral
+∴	derfor
+∵	fordi
+∶	forhold
+∷	proporsjon
+∼	tildeoperator
+∽	omvendt tilde
+∾	omvendt doven s
+≃	asymptotisk lik
+≅	isomorfisk lik
+≈	avrundes til, er tilnærmet lik
+≌	kongruent
+≒	tilnærmet lik bildet
+≖	ring i likhetstegn
+≡	identisk lik, kongruent med, likhetstegn, matematiske tegn
+≣	identisk med
+≤	er mindre enn eller lik, likhetstegn, mindre enn eller lik, ulikhet
+≥	er større enn eller lik, likhetstegn, større enn eller lik, ulikhet
+≦	mindre enn over lihetstegn
+≧	større enn over lihetstegn
+≪	mye mindre enn
+≫	mye større enn
+≬	mellom
+≳	større enn tilnærmet lik
+≺	foregår
+≻	etterfølger
+⊁	etterfølger ikke
+⊂	delmengde av, inklusjonstegn, matematiske tegn, mengdelære
+⊃	supermengde
+⊆	delmengde lik
+⊇	supermengde lik
+⊕	innsirklet plusstegn
+⊖	innsirklet minustegn
+⊗	innsirklet multipliseringstegn
+⊘	innsirklet divisjonstegn
+⊙	innsirklet prikkoperator
+⊚	innsirklet ringoperator
+⊛	innsirklet asteriskoperator
+⊞	plusstegn i firkant
+⊟	minustegn i firkant
+⊥	falsum
+⊮	tvinger ikke
+⊰	foregår under relasjon
+⊱	etterfølger under relasjon
+⋭	inneholder ikke som normal delgruppe lik
+⊶	original
+⊹	hermitisk konjugert matrise
+⊿	rettvinklet triangel
+⋁	n-ær logisk eller
+⋂	n-ært snitt
+⋃	n-ær union
+⋅	prikkoperator
+⋆	stjerneoperator
+⋈	naturlig forening
+⋒	dobbelt snitt
+⋘	veldig mye mindre enn
+⋙	veldig mye større enn
+⋮	loddrett ellipse
+⋯	sentrert vannrett ellipse
+⋰	diagonal ellipse oppover mot høyre
+⋱	diagonal ellipse nedover mot høyre
+■	fylt firkant
+□	hul firkant
+▢	hul firkant med avrundede hjørner
+▣	hul firkant med en fylt firkant inni
+▤	firkant med vannrette streker inni
+▥	firkant med loddrette streker inni
+▦	firkant med ortogonalt rutemønster inni
+▧	firkant med diagonale streker fra øverst til venstre mot nederst til høyre inni
+▨	firkant med diagonale streker fra øverst til høyre mot nederst til venstre inni
+▩	firkant med diagonalt rutemønster inni
+▬	fylt rektangel
+▭	hult rektangel
+▮	fylt vertikalt rektangel
+▰	fylt parallellogram
+▲	fylt, fylt trekant som peker opp, opp, pil, trekant
+△	hult triangel som peker oppover
+▴	lite, fylt triangel som peker oppover
+▵	lite, hult triangel som peker oppover
+▷	hult triangel som peker mot høyre
+▸	lite, fylt triangel som peker mot høyre
+▹	lite, hult triangel som peker mot høyre
+►	fylt peker som peker mot høyre
+▻	hul peker som peker mot høyre
+▼	fylt, fylt trekant som peker ned, ned, pil, trekant
+▽	hult triangel som peker nedover
+▾	lite, fylt triangel som peker nedover
+▿	lite, hult triangel som peker nedover
+◁	hult triangel som peker mot venstre
+◂	lite, fylt triangel som peker mot venstre
+◃	lite, hult triangel som peker mot venstre
+◄	fylt peker som peker mot venstre
+◅	hul peker som peker mot venstre
+◆	fylt rutersymbol
+◇	hult rutersymbol
+◈	hult rutersymbol med fylt rutersymbol inni
+◉	hul sirkel med fylt sirkel inni
+◊	diamant, hult rombesymbol, rombe, ruter
+○	hul sirkel, ring, runding, sirkel
+◌	stiplet sirkel
+◍	sirkel med loddrette streker inni
+◎	hul sirkel med hul sirkel inni
+●	fylt sirkel, runding, sirkel
+◐	sirkel med venstre halvdel fylt
+◑	sirkel med høyre halvdel fylt
+◒	sirkel med nedre halvdel fylt
+◓	sirkel med øvre halvdel fylt
+◔	sirkel med fjerdedelen øverst til høyre fylt
+◕	sirkel med alt bortsett fra fjerdedelen øverst til venstre fylt
+◖	fylt venstre halvsirkel
+◗	fylt høyre halvsirkel
+◘	invertert punktlistepunkt
+◙	fylt firkant med hul sirkel inni
+◜	sirkelbue av fjerdedelen øverst til venstre i en sirkel
+◝	sirkelbue av fjerdedelen øverst til høyre i en sirkel
+◞	sirkelbue av fjerdedelen nederst til høyre i en sirkel
+◟	sirkelbue av fjerdedelen nederst til venstre i en sirkel
+◠	øvre halvsirkel
+◡	nedre halvsirkel
+◢	fylt triangel med rett vinkel nederst til høyre
+◣	fylt triangel med rett vinkel nederst til venstre
+◤	fylt triangel med rett vinkel øverst til venstre
+◥	fylt triangel med rett vinkel øverst til høyre
+◦	hult punktlistepunkt
+◯	hul sirkel, ring, runding, sirkel, stor hul sirkel
+◳	hul firkant med hul firkant øverst til høyre
+◷	hul sirkel med hul sektor øverst til høyre
+◿	hult triangel med rett vinkel nederst til høyre
+♪	musikk, note, åttendelsnote
+⨧	plusstegn med senket totall
+⨯	kryssprodukt av vektorer
+⨼	interiørprodukt
+⩣	logisk Eller med dobbel understrek
+⩽	mindre enn eller lik med likhetstegn på skrå
+⪍	mindre enn eller lik over asymptotisk lik
+⪚	likhetstegn over større enn
+⪺	etterfølger over ikke tilnærmet lik
+♭	b, halvnote ned, musikk, note-b
+♯	halvnote opp, kryss, musikk, note-kryss
 😀	fjes, glis, glisefjes
 😃	fjes, glisende fjes med vidåpne øyne, latter, munn, smil, smilefjes, smilefjes med åpen munn, åpen
 😄	latter, med tenner, morsomt, smil, smilefjes, smilefjes med åpen munn og smilende øyne
@@ -8,6 +352,7 @@
 😂	fjes, fjes med gledestårer, glede, gledestårer, tårer
 🙂	fjes, smil, smiler litt
 🙃	fjes, fjes som er opp-ned, opp-ned
+🫠	fjes som smelter, forsvinner, går i oppløsning, væske
 😉	blunk, blunkende ansikt, fjes
 😊	fjes, rødme, smil, smil med smilende øyne, smilende øyne
 😇	engel, fjes, glorie, smil, smil med glorie, uskyldig
@@ -24,21 +369,27 @@
 😛	fjes, fjes som rekker tunge, rekker tunge, tungen ut
 😜	blunk, blunker og rekker tunge, erte, fjes, rekke tunge med blunk, spøk
 🤪	fjes, gal, lite øye, sinnssyk, stort øye
-😝	fjes, følt, lukkende øyne, rekke tunge, tungen ut med øynene lukket, æsj
+😝	fjes, fælt, lukkende øyne, rekke tunge, tungen ut med øynene lukket, æsj
 🤑	fjes, munn, pengegal, penger
 🤗	fjes, fjes som gir klem, klem
 🤭	flire, hånden over munnen, ops
+🫢	fjes, fjes med åpne øyne og hånd over munnen, flau, forskrekkelse, overraskelse, redd
+🫣	fjes, fjes som titter frem bak hendene, klarer ikke dy seg, må se, stirre, titte
 🤫	hysj, stillhet, vær stille
 🤔	fjes, tankefull, tenkefjes, tenker
+🫡	fjes, fjes som viser honnør, ja, militærhilsen, salutt
 🤐	fjes, fjes med glidelåsmunn, glidelås, munn
 🤨	hevet øyenbryn, skeptisk, tvil
 😐️	fjes, ingen kommentar, nøytral, stum
 😑	fjes, ingen kommentar, nøytral, stum, uttrykksløs
 😶	fjes, ingen munn, uten munn
+🫥	fjes, fjes med stiplet omriss, forsvinner, gjemme seg, introvert, usynlig
+😶‍🌫	distré, fjes i skyer, fraværende, uoppmerksom
 😏	fjes, lurt smil, selvtilfreds
 😒	fjes, misfornøyd, sur
 🙄	fjes, himler med øynene, ruller, øyne
 😬	fjes, grimase
+😮‍💨	fjes, gispe, hviske, lettet, plystre, puste ut, puster ut, sukke
 🤥	fjes, lyver, løgn, pinocchio
 😌	fjes, lettet
 😔	alvorlig, fjes, lei seg, tankefull
@@ -55,6 +406,7 @@
 🥶	blå, frost, fryser, istapper, kald, kaldt fjes
 🥴	brisen, bølgete munn, full, svimmel, svimmelt fjes, ujevne øyne
 😵	fjes, svimmel, ør
+😵‍💫	fjes med spiraløyne, hypnotisert, problem, spiral, svimmel, uææ
 🤯	eksploderende hode, forbløffet, overrasket, sjokkert
 🤠	cowboy, cowgirl, fjes, fjes med cowboyhatt, hatt
 🥳	feiring, fest, fløyte, hatt, party, partyfjes
@@ -63,6 +415,7 @@
 🤓	fjes, nerd, nerdefjes
 🧐	fjes, fjes med monokkel, formell, monokkel, stiv
 😕	fjes, forvirret
+🫤	fjes, fjes med diagonal munn, fjes med skråstrek, meh, skeptisk, skuffet, usikker
 😟	bekymret, fjes
 🙁	fjes, litt surt fjes, trist
 ☹️	fjes, surt fjes, trist
@@ -71,6 +424,7 @@
 😲	fjes, overrasket, sjokkert, stum
 😳	fjes, rød, rødmer
 🥺	bedende fjes, nåde, trygler, valpeøyne
+🥹	fjes som holder tilbake tårene, gråte, motstå, rørt, sint, stolt, trist
 😦	fjes, oppgitt, overrasket, sjokkert med åpen munn
 😧	fjes, lider, pine, smerte
 😨	fjes, frykt, redd, skremt
@@ -126,6 +480,8 @@
 💟	hjerte, hjertedekorasjon
 ❣️	tegn, tegnsetting, utrop, utropstegn, utropstegn med hjerte
 💔	brudd, følelser, hjerte, knust hjerte
+❤‍🔥	brann, hellig hjerte, hjerte, hjerte i brann, ild, kjærlighet, lidenskap
+❤‍🩹	bedre, bra, forbedring, komme seg, lindret hjerte, lindring, sterkere
 ❤️	hjerte, rødt hjerte
 🧡	følelser, hjerte, oransje, oransje hjerte
 💛	følelser, gul, gult hjerte, hjerte
@@ -179,6 +535,50 @@
 🖖🏽	Vulcan-hilsen, Vulcan-hilsen: hudtype 4, finger, hudtype 4, hånd, spock, vulcan
 🖖🏾	Vulcan-hilsen, Vulcan-hilsen: hudtype 5, finger, hudtype 5, hånd, spock, vulcan
 🖖🏿	Vulcan-hilsen, Vulcan-hilsen: hudtype 6, finger, hudtype 6, hånd, spock, vulcan
+🫱	hånd, hånd mot høyre, høyre
+🫱🏻	hudtype 1–2, hånd, hånd mot høyre, hånd mot høyre: hudtype 1–2, høyre
+🫱🏼	hudtype 3, hånd, hånd mot høyre, hånd mot høyre: hudtype 3, høyre
+🫱🏽	hudtype 4, hånd, hånd mot høyre, hånd mot høyre: hudtype 4, høyre
+🫱🏾	hudtype 5, hånd, hånd mot høyre, hånd mot høyre: hudtype 5, høyre
+🫱🏿	hudtype 6, hånd, hånd mot høyre, hånd mot høyre: hudtype 6, høyre
+🫱🏻‍🫲🏼	avtale, hudtype 1–2, hudtype 3, hånd, håndhilse, håndhilse: hudtype 1–2, hudtype 3, håndtrykk, møte
+🫱🏻‍🫲🏽	avtale, hudtype 1–2, hudtype 4, hånd, håndhilse, håndhilse: hudtype 1–2, hudtype 4, håndtrykk, møte
+🫱🏻‍🫲🏾	avtale, hudtype 1–2, hudtype 5, hånd, håndhilse, håndhilse: hudtype 1–2, hudtype 5, håndtrykk, møte
+🫱🏻‍🫲🏿	avtale, hudtype 1–2, hudtype 6, hånd, håndhilse, håndhilse: hudtype 1–2, hudtype 6, håndtrykk, møte
+🫱🏼‍🫲🏻	avtale, hudtype 1–2, hudtype 3, hånd, håndhilse, håndhilse: hudtype 3, hudtype 1–2, håndtrykk, møte
+🫱🏼‍🫲🏽	avtale, hudtype 3, hudtype 4, hånd, håndhilse, håndhilse: hudtype 3, hudtype 4, håndtrykk, møte
+🫱🏼‍🫲🏾	avtale, hudtype 3, hudtype 5, hånd, håndhilse, håndhilse: hudtype 3, hudtype 5, håndtrykk, møte
+🫱🏼‍🫲🏿	avtale, hudtype 3, hudtype 6, hånd, håndhilse, håndhilse: hudtype 3, hudtype 6, håndtrykk, møte
+🫱🏽‍🫲🏻	avtale, hudtype 1–2, hudtype 4, hånd, håndhilse, håndhilse: hudtype 4, hudtype 1–2, håndtrykk, møte
+🫱🏽‍🫲🏼	avtale, hudtype 3, hudtype 4, hånd, håndhilse, håndhilse: hudtype 4, hudtype 3, håndtrykk, møte
+🫱🏽‍🫲🏾	avtale, hudtype 4, hudtype 5, hånd, håndhilse, håndhilse: hudtype 4, hudtype 5, håndtrykk, møte
+🫱🏽‍🫲🏿	avtale, hudtype 4, hudtype 6, hånd, håndhilse, håndhilse: hudtype 4, hudtype 6, håndtrykk, møte
+🫱🏾‍🫲🏻	avtale, hudtype 1–2, hudtype 5, hånd, håndhilse, håndhilse: hudtype 5, hudtype 1–2, håndtrykk, møte
+🫱🏾‍🫲🏼	avtale, hudtype 3, hudtype 5, hånd, håndhilse, håndhilse: hudtype 5, hudtype 3, håndtrykk, møte
+🫱🏾‍🫲🏽	avtale, hudtype 4, hudtype 5, hånd, håndhilse, håndhilse: hudtype 5, hudtype 4, håndtrykk, møte
+🫱🏾‍🫲🏿	avtale, hudtype 5, hudtype 6, hånd, håndhilse, håndhilse: hudtype 5, hudtype 6, håndtrykk, møte
+🫱🏿‍🫲🏻	avtale, hudtype 1–2, hudtype 6, hånd, håndhilse, håndhilse: hudtype 6, hudtype 1–2, håndtrykk, møte
+🫱🏿‍🫲🏼	avtale, hudtype 3, hudtype 6, hånd, håndhilse, håndhilse: hudtype 6, hudtype 3, håndtrykk, møte
+🫱🏿‍🫲🏽	avtale, hudtype 4, hudtype 6, hånd, håndhilse, håndhilse: hudtype 6, hudtype 4, håndtrykk, møte
+🫱🏿‍🫲🏾	avtale, hudtype 5, hudtype 6, hånd, håndhilse, håndhilse: hudtype 6, hudtype 5, håndtrykk, møte
+🫲	hånd, hånd mot venstre, venstre
+🫲🏻	hudtype 1–2, hånd, hånd mot venstre, hånd mot venstre: hudtype 1–2, venstre
+🫲🏼	hudtype 3, hånd, hånd mot venstre, hånd mot venstre: hudtype 3, venstre
+🫲🏽	hudtype 4, hånd, hånd mot venstre, hånd mot venstre: hudtype 4, venstre
+🫲🏾	hudtype 5, hånd, hånd mot venstre, hånd mot venstre: hudtype 5, venstre
+🫲🏿	hudtype 6, hånd, hånd mot venstre, hånd mot venstre: hudtype 6, venstre
+🫳	avfeie, husj, håndflaten ned, slippe
+🫳🏻	avfeie, hudtype 1–2, husj, håndflaten ned, håndflaten ned: hudtype 1–2, slippe
+🫳🏼	avfeie, hudtype 3, husj, håndflaten ned, håndflaten ned: hudtype 3, slippe
+🫳🏽	avfeie, hudtype 4, husj, håndflaten ned, håndflaten ned: hudtype 4, slippe
+🫳🏾	avfeie, hudtype 5, husj, håndflaten ned, håndflaten ned: hudtype 5, slippe
+🫳🏿	avfeie, hudtype 6, husj, håndflaten ned, håndflaten ned: hudtype 6, slippe
+🫴	gripe, håndflaten opp, invitere, kalle på, lokke, tilby
+🫴🏻	gripe, hudtype 1–2, håndflaten opp, håndflaten opp: hudtype 1–2, invitere, kalle på, lokke, tilby
+🫴🏼	gripe, hudtype 3, håndflaten opp, håndflaten opp: hudtype 3, invitere, kalle på, lokke, tilby
+🫴🏽	gripe, hudtype 4, håndflaten opp, håndflaten opp: hudtype 4, invitere, kalle på, lokke, tilby
+🫴🏾	gripe, hudtype 5, håndflaten opp, håndflaten opp: hudtype 5, invitere, kalle på, lokke, tilby
+🫴🏿	gripe, hudtype 6, håndflaten opp, håndflaten opp: hudtype 6, invitere, kalle på, lokke, tilby
 👌	OK, OK-hånd, hånd, tegn
 👌🏻	OK, OK-hånd, OK-hånd: hudtype 1–2, hudtype 1–2, hånd, tegn
 👌🏼	OK, OK-hånd, OK-hånd: hudtype 3, hudtype 3, hånd, tegn
@@ -209,6 +609,12 @@
 🤞🏽	finger, hell, hudtype 4, hånd, kryss, kryssede fingre, kryssede fingre: hudtype 4
 🤞🏾	finger, hell, hudtype 5, hånd, kryss, kryssede fingre, kryssede fingre: hudtype 5
 🤞🏿	finger, hell, hudtype 6, hånd, kryss, kryssede fingre, kryssede fingre: hudtype 6
+🫰	dyrt, hjerte, hånd med pekefinger og tommel krysset, kjærlighet, knipse, penger
+🫰🏻	dyrt, hjerte, hudtype 1–2, hånd med pekefinger og tommel krysset, hånd med pekefinger og tommel krysset: hudtype 1–2, kjærlighet, knipse, penger
+🫰🏼	dyrt, hjerte, hudtype 3, hånd med pekefinger og tommel krysset, hånd med pekefinger og tommel krysset: hudtype 3, kjærlighet, knipse, penger
+🫰🏽	dyrt, hjerte, hudtype 4, hånd med pekefinger og tommel krysset, hånd med pekefinger og tommel krysset: hudtype 4, kjærlighet, knipse, penger
+🫰🏾	dyrt, hjerte, hudtype 5, hånd med pekefinger og tommel krysset, hånd med pekefinger og tommel krysset: hudtype 5, kjærlighet, knipse, penger
+🫰🏿	dyrt, hjerte, hudtype 6, hånd med pekefinger og tommel krysset, hånd med pekefinger og tommel krysset: hudtype 6, kjærlighet, knipse, penger
 🤟	ILY, glad i deg, glad i deg-tegn, hånd, tegnspråk
 🤟🏻	ILY, glad i deg, glad i deg-tegn, glad i deg-tegn: hudtype 1–2, hudtype 1–2, hånd, tegnspråk
 🤟🏼	ILY, glad i deg, glad i deg-tegn, glad i deg-tegn: hudtype 3, hudtype 3, hånd, tegnspråk
@@ -263,6 +669,12 @@
 ☝🏽	finger, hudtype 4, hånd, kropp, opp, peke, pekefinger, peker opp, peker opp: hudtype 4
 ☝🏾	finger, hudtype 5, hånd, kropp, opp, peke, pekefinger, peker opp, peker opp: hudtype 5
 ☝🏿	finger, hudtype 6, hånd, kropp, opp, peke, pekefinger, peker opp, peker opp: hudtype 6
+🫵	deg, pekefinger peker på leseren, peker, peker på deg, uncle sam
+🫵🏻	deg, hudtype 1–2, pekefinger peker på leseren, pekefinger peker på leseren: hudtype 1–2, peker, peker på deg, uncle sam
+🫵🏼	deg, hudtype 3, pekefinger peker på leseren, pekefinger peker på leseren: hudtype 3, peker, peker på deg, uncle sam
+🫵🏽	deg, hudtype 4, pekefinger peker på leseren, pekefinger peker på leseren: hudtype 4, peker, peker på deg, uncle sam
+🫵🏾	deg, hudtype 5, pekefinger peker på leseren, pekefinger peker på leseren: hudtype 5, peker, peker på deg, uncle sam
+🫵🏿	deg, hudtype 6, pekefinger peker på leseren, pekefinger peker på leseren: hudtype 6, peker, peker på deg, uncle sam
 👍️	hånd, tegn, tommel, tommel opp
 👍🏻	hudtype 1–2, hånd, tegn, tommel, tommel opp, tommel opp: hudtype 1–2
 👍🏼	hudtype 3, hånd, tegn, tommel, tommel opp, tommel opp: hudtype 3
@@ -311,6 +723,12 @@
 🙌🏽	begge hender, feirer, feiring, hevede hender, hevede hender: hudtype 4, hudtype 4, hånd, rekker begge armene i været
 🙌🏾	begge hender, feirer, feiring, hevede hender, hevede hender: hudtype 5, hudtype 5, hånd, rekker begge armene i været
 🙌🏿	begge hender, feirer, feiring, hevede hender, hevede hender: hudtype 6, hudtype 6, hånd, rekker begge armene i været
+🫶	hender som lager hjerte, hjertehender, kjærlighet
+🫶🏻	hender som lager hjerte, hjertehender, hjertehender: hudtype 1–2, hudtype 1–2, kjærlighet
+🫶🏼	hender som lager hjerte, hjertehender, hjertehender: hudtype 3, hudtype 3, kjærlighet
+🫶🏽	hender som lager hjerte, hjertehender, hjertehender: hudtype 4, hudtype 4, kjærlighet
+🫶🏾	hender som lager hjerte, hjertehender, hjertehender: hudtype 5, hudtype 5, kjærlighet
+🫶🏿	hender som lager hjerte, hjertehender, hjertehender: hudtype 6, hudtype 6, kjærlighet
 👐	hender, hånd, åpne, åpne hender
 👐🏻	hender, hudtype 1–2, hånd, åpne, åpne hender: hudtype 1–2
 👐🏼	hender, hudtype 3, hånd, åpne, åpne hender: hudtype 3
@@ -324,6 +742,11 @@
 🤲🏾	ber, bønn, hudtype 5, hånd, håndflatene sammen, håndflatene sammen: hudtype 5
 🤲🏿	ber, bønn, hudtype 6, hånd, håndflatene sammen, håndflatene sammen: hudtype 6
 🤝	avtale, hånd, håndhilse, håndtrykk, møte
+🤝🏻	avtale, hudtype 1–2, hånd, håndhilse, håndhilse: hudtype 1–2, håndtrykk, møte
+🤝🏼	avtale, hudtype 3, hånd, håndhilse, håndhilse: hudtype 3, håndtrykk, møte
+🤝🏽	avtale, hudtype 4, hånd, håndhilse, håndhilse: hudtype 4, håndtrykk, møte
+🤝🏾	avtale, hudtype 5, hånd, håndhilse, håndhilse: hudtype 5, håndtrykk, møte
+🤝🏿	avtale, hudtype 6, hånd, håndhilse, håndhilse: hudtype 6, håndtrykk, møte
 🙏	be, ber, bevegelse, bønn, foldede hender, hånd
 🙏🏻	be, ber, bevegelse, bønn, foldede hender, foldede hender: hudtype 1–2, hudtype 1–2, hånd
 🙏🏼	be, ber, bevegelse, bønn, foldede hender, foldede hender: hudtype 3, hudtype 3, hånd
@@ -395,6 +818,7 @@
 👁️	kropp, øye
 👅	fjes, kropp, tunge
 👄	fjes, kropp, lepper, munn
+🫦	bekymret, bite seg i leppa, bite seg i leppen, flørte, nervøs, redd, ukomfortabel
 👶	baby, menneske, ung
 👶🏻	baby, baby: hudtype 1–2, hudtype 1–2, menneske, ung
 👶🏼	baby, baby: hudtype 3, hudtype 3, menneske, ung
@@ -431,6 +855,46 @@
 👱🏽	Person: blond, Person: hudtype 4, blond, blond, blond person, hudtype 4, hår, menneske
 👱🏾	Person: blond, Person: hudtype 5, blond, blond, blond person, hudtype 5, hår, menneske
 👱🏿	Person: blond, Person: hudtype 6, blond, blond, blond person, hudtype 6, hår, menneske
+🧑🏻‍❤‍💋‍🧑🏼	hudtype 1–2, hudtype 3, kyss, kyss: voksen, voksen, hudtype 1–2, hudtype 3, kyssing, mennesker, romantikk, voksen
+🧑🏻‍❤‍💋‍🧑🏽	hudtype 1–2, hudtype 4, kyss, kyss: voksen, voksen, hudtype 1–2, hudtype 4, kyssing, mennesker, romantikk, voksen
+🧑🏻‍❤‍💋‍🧑🏾	hudtype 1–2, hudtype 5, kyss, kyss: voksen, voksen, hudtype 1–2, hudtype 5, kyssing, mennesker, romantikk, voksen
+🧑🏻‍❤‍💋‍🧑🏿	hudtype 1–2, hudtype 6, kyss, kyss: voksen, voksen, hudtype 1–2, hudtype 6, kyssing, mennesker, romantikk, voksen
+🧑🏼‍❤‍💋‍🧑🏻	hudtype 1–2, hudtype 3, kyss, kyss: voksen, voksen, hudtype 3, hudtype 1–2, kyssing, mennesker, romantikk, voksen
+🧑🏼‍❤‍💋‍🧑🏽	hudtype 3, hudtype 4, kyss, kyss: voksen, voksen, hudtype 3, hudtype 4, kyssing, mennesker, romantikk, voksen
+🧑🏼‍❤‍💋‍🧑🏾	hudtype 3, hudtype 5, kyss, kyss: voksen, voksen, hudtype 3, hudtype 5, kyssing, mennesker, romantikk, voksen
+🧑🏼‍❤‍💋‍🧑🏿	hudtype 3, hudtype 6, kyss, kyss: voksen, voksen, hudtype 3, hudtype 6, kyssing, mennesker, romantikk, voksen
+🧑🏽‍❤‍💋‍🧑🏻	hudtype 1–2, hudtype 4, kyss, kyss: voksen, voksen, hudtype 4, hudtype 1–2, kyssing, mennesker, romantikk, voksen
+🧑🏽‍❤‍💋‍🧑🏼	hudtype 3, hudtype 4, kyss, kyss: voksen, voksen, hudtype 4, hudtype 3, kyssing, mennesker, romantikk, voksen
+🧑🏽‍❤‍💋‍🧑🏾	hudtype 4, hudtype 5, kyss, kyss: voksen, voksen, hudtype 4, hudtype 5, kyssing, mennesker, romantikk, voksen
+🧑🏽‍❤‍💋‍🧑🏿	hudtype 4, hudtype 6, kyss, kyss: voksen, voksen, hudtype 4, hudtype 6, kyssing, mennesker, romantikk, voksen
+🧑🏾‍❤‍💋‍🧑🏻	hudtype 1–2, hudtype 5, kyss, kyss: voksen, voksen, hudtype 5, hudtype 1–2, kyssing, mennesker, romantikk, voksen
+🧑🏾‍❤‍💋‍🧑🏼	hudtype 3, hudtype 5, kyss, kyss: voksen, voksen, hudtype 5, hudtype 3, kyssing, mennesker, romantikk, voksen
+🧑🏾‍❤‍💋‍🧑🏽	hudtype 4, hudtype 5, kyss, kyss: voksen, voksen, hudtype 5, hudtype 4, kyssing, mennesker, romantikk, voksen
+🧑🏾‍❤‍💋‍🧑🏿	hudtype 5, hudtype 6, kyss, kyss: voksen, voksen, hudtype 5, hudtype 6, kyssing, mennesker, romantikk, voksen
+🧑🏿‍❤‍💋‍🧑🏻	hudtype 1–2, hudtype 6, kyss, kyss: voksen, voksen, hudtype 6, hudtype 1–2, kyssing, mennesker, romantikk, voksen
+🧑🏿‍❤‍💋‍🧑🏼	hudtype 3, hudtype 6, kyss, kyss: voksen, voksen, hudtype 6, hudtype 3, kyssing, mennesker, romantikk, voksen
+🧑🏿‍❤‍💋‍🧑🏽	hudtype 4, hudtype 6, kyss, kyss: voksen, voksen, hudtype 6, hudtype 4, kyssing, mennesker, romantikk, voksen
+🧑🏿‍❤‍💋‍🧑🏾	hudtype 5, hudtype 6, kyss, kyss: voksen, voksen, hudtype 6, hudtype 5, kyssing, mennesker, romantikk, voksen
+🧑🏻‍❤‍🧑🏼	hjerte, hudtype 1–2, hudtype 3, kjærlighet, mennesker, par med hjerte, par med hjerte: voksen, voksen, hudtype 1–2, hudtype 3, romantikk, voksen
+🧑🏻‍❤‍🧑🏽	hjerte, hudtype 1–2, hudtype 4, kjærlighet, mennesker, par med hjerte, par med hjerte: voksen, voksen, hudtype 1–2, hudtype 4, romantikk, voksen
+🧑🏻‍❤‍🧑🏾	hjerte, hudtype 1–2, hudtype 5, kjærlighet, mennesker, par med hjerte, par med hjerte: voksen, voksen, hudtype 1–2, hudtype 5, romantikk, voksen
+🧑🏻‍❤‍🧑🏿	hjerte, hudtype 1–2, hudtype 6, kjærlighet, mennesker, par med hjerte, par med hjerte: voksen, voksen, hudtype 1–2, hudtype 6, romantikk, voksen
+🧑🏼‍❤‍🧑🏻	hjerte, hudtype 1–2, hudtype 3, kjærlighet, mennesker, par med hjerte, par med hjerte: voksen, voksen, hudtype 3, hudtype 1–2, romantikk, voksen
+🧑🏼‍❤‍🧑🏽	hjerte, hudtype 3, hudtype 4, kjærlighet, mennesker, par med hjerte, par med hjerte: voksen, voksen, hudtype 3, hudtype 4, romantikk, voksen
+🧑🏼‍❤‍🧑🏾	hjerte, hudtype 3, hudtype 5, kjærlighet, mennesker, par med hjerte, par med hjerte: voksen, voksen, hudtype 3, hudtype 5, romantikk, voksen
+🧑🏼‍❤‍🧑🏿	hjerte, hudtype 3, hudtype 6, kjærlighet, mennesker, par med hjerte, par med hjerte: voksen, voksen, hudtype 3, hudtype 6, romantikk, voksen
+🧑🏽‍❤‍🧑🏻	hjerte, hudtype 1–2, hudtype 4, kjærlighet, mennesker, par med hjerte, par med hjerte: voksen, voksen, hudtype 4, hudtype 1–2, romantikk, voksen
+🧑🏽‍❤‍🧑🏼	hjerte, hudtype 3, hudtype 4, kjærlighet, mennesker, par med hjerte, par med hjerte: voksen, voksen, hudtype 4, hudtype 3, romantikk, voksen
+🧑🏽‍❤‍🧑🏾	hjerte, hudtype 4, hudtype 5, kjærlighet, mennesker, par med hjerte, par med hjerte: voksen, voksen, hudtype 4, hudtype 5, romantikk, voksen
+🧑🏽‍❤‍🧑🏿	hjerte, hudtype 4, hudtype 6, kjærlighet, mennesker, par med hjerte, par med hjerte: voksen, voksen, hudtype 4, hudtype 6, romantikk, voksen
+🧑🏾‍❤‍🧑🏻	hjerte, hudtype 1–2, hudtype 5, kjærlighet, mennesker, par med hjerte, par med hjerte: voksen, voksen, hudtype 5, hudtype 1–2, romantikk, voksen
+🧑🏾‍❤‍🧑🏼	hjerte, hudtype 3, hudtype 5, kjærlighet, mennesker, par med hjerte, par med hjerte: voksen, voksen, hudtype 5, hudtype 3, romantikk, voksen
+🧑🏾‍❤‍🧑🏽	hjerte, hudtype 4, hudtype 5, kjærlighet, mennesker, par med hjerte, par med hjerte: voksen, voksen, hudtype 5, hudtype 4, romantikk, voksen
+🧑🏾‍❤‍🧑🏿	hjerte, hudtype 5, hudtype 6, kjærlighet, mennesker, par med hjerte, par med hjerte: voksen, voksen, hudtype 5, hudtype 6, romantikk, voksen
+🧑🏿‍❤‍🧑🏻	hjerte, hudtype 1–2, hudtype 6, kjærlighet, mennesker, par med hjerte, par med hjerte: voksen, voksen, hudtype 6, hudtype 1–2, romantikk, voksen
+🧑🏿‍❤‍🧑🏼	hjerte, hudtype 3, hudtype 6, kjærlighet, mennesker, par med hjerte, par med hjerte: voksen, voksen, hudtype 6, hudtype 3, romantikk, voksen
+🧑🏿‍❤‍🧑🏽	hjerte, hudtype 4, hudtype 6, kjærlighet, mennesker, par med hjerte, par med hjerte: voksen, voksen, hudtype 6, hudtype 4, romantikk, voksen
+🧑🏿‍❤‍🧑🏾	hjerte, hudtype 5, hudtype 6, kjærlighet, mennesker, par med hjerte, par med hjerte: voksen, voksen, hudtype 6, hudtype 5, romantikk, voksen
 🧑‍🦰	kjønnsnøytral, menneske, person, rødt hår, voksen, voksen: rødt hår
 🧑🏻‍🦰	hudtype 1–2, kjønnsnøytral, menneske, person, rødt hår, voksen, voksen: hudtype 1–2, rødt hår
 🧑🏼‍🦰	hudtype 3, kjønnsnøytral, menneske, person, rødt hår, voksen, voksen: hudtype 3, rødt hår
@@ -461,18 +925,74 @@
 👨🏽	hudtype 4, mann, mann: hudtype 4, menneske, voksen
 👨🏾	hudtype 5, mann, mann: hudtype 5, menneske, voksen
 👨🏿	hudtype 6, mann, mann: hudtype 6, menneske, voksen
-🧔	mann, mann med skjegg, mann: skjegg, person, skjegg
-🧔🏻	hudtype 1–2, mann, mann med skjegg, mann: hudtype 1–2, skjegg, mann: skjegg, person, skjegg
-🧔🏼	hudtype 3, mann, mann med skjegg, mann: hudtype 3, skjegg, mann: skjegg, person, skjegg
-🧔🏽	hudtype 4, mann, mann med skjegg, mann: hudtype 4, skjegg, mann: skjegg, person, skjegg
-🧔🏾	hudtype 5, mann, mann med skjegg, mann: hudtype 5, skjegg, mann: skjegg, person, skjegg
-🧔🏿	hudtype 6, mann, mann med skjegg, mann: hudtype 6, skjegg, mann: skjegg, person, skjegg
+🧔	mann, mann med skjegg, mann: skjegg, person, person: skjegg, skjegg
+🧔🏻	hudtype 1–2, mann, mann med skjegg, mann: skjegg, person, person: hudtype 1–2, skjegg, person: skjegg, skjegg
+🧔🏼	hudtype 3, mann, mann med skjegg, mann: skjegg, person, person: hudtype 3, skjegg, person: skjegg, skjegg
+🧔🏽	hudtype 4, mann, mann med skjegg, mann: skjegg, person, person: hudtype 4, skjegg, person: skjegg, skjegg
+🧔🏾	hudtype 5, mann, mann med skjegg, mann: skjegg, person, person: hudtype 5, skjegg, person: skjegg, skjegg
+🧔🏿	hudtype 6, mann, mann med skjegg, mann: skjegg, person, person: hudtype 6, skjegg, person: skjegg, skjegg
+🧔‍♂	mann, mann: skjegg, skjegg
+🧔🏻‍♂	hudtype 1–2, mann, mann: hudtype 1–2, skjegg, mann: skjegg, skjegg
+🧔🏼‍♂	hudtype 3, mann, mann: hudtype 3, skjegg, mann: skjegg, skjegg
+🧔🏽‍♂	hudtype 4, mann, mann: hudtype 4, skjegg, mann: skjegg, skjegg
+🧔🏾‍♂	hudtype 5, mann, mann: hudtype 5, skjegg, mann: skjegg, skjegg
+🧔🏿‍♂	hudtype 6, mann, mann: hudtype 6, skjegg, mann: skjegg, skjegg
 👱‍♂	blond, hår, mann, mann: blond
 👱🏻‍♂	blond, hudtype 1–2, hår, mann, mann: blond, mann: hudtype 1–2, blond
 👱🏼‍♂	blond, hudtype 3, hår, mann, mann: blond, mann: hudtype 3, blond
 👱🏽‍♂	blond, hudtype 4, hår, mann, mann: blond, mann: hudtype 4, blond
 👱🏾‍♂	blond, hudtype 5, hår, mann, mann: blond, mann: hudtype 5, blond
 👱🏿‍♂	blond, hudtype 6, hår, mann, mann: blond, mann: hudtype 6, blond
+👨🏻‍❤‍💋‍👨🏻	hudtype 1–2, kyss, kyss: mann, mann, hudtype 1–2, kyssing, mann, mennesker, romantikk
+👨🏻‍❤‍💋‍👨🏼	hudtype 1–2, hudtype 3, kyss, kyss: mann, mann, hudtype 1–2, hudtype 3, kyssing, mann, mennesker, romantikk
+👨🏻‍❤‍💋‍👨🏽	hudtype 1–2, hudtype 4, kyss, kyss: mann, mann, hudtype 1–2, hudtype 4, kyssing, mann, mennesker, romantikk
+👨🏻‍❤‍💋‍👨🏾	hudtype 1–2, hudtype 5, kyss, kyss: mann, mann, hudtype 1–2, hudtype 5, kyssing, mann, mennesker, romantikk
+👨🏻‍❤‍💋‍👨🏿	hudtype 1–2, hudtype 6, kyss, kyss: mann, mann, hudtype 1–2, hudtype 6, kyssing, mann, mennesker, romantikk
+👨🏼‍❤‍💋‍👨🏻	hudtype 1–2, hudtype 3, kyss, kyss: mann, mann, hudtype 3, hudtype 1–2, kyssing, mann, mennesker, romantikk
+👨🏼‍❤‍💋‍👨🏼	hudtype 3, kyss, kyss: mann, mann, hudtype 3, kyssing, mann, mennesker, romantikk
+👨🏼‍❤‍💋‍👨🏽	hudtype 3, hudtype 4, kyss, kyss: mann, mann, hudtype 3, hudtype 4, kyssing, mann, mennesker, romantikk
+👨🏼‍❤‍💋‍👨🏾	hudtype 3, hudtype 5, kyss, kyss: mann, mann, hudtype 3, hudtype 5, kyssing, mann, mennesker, romantikk
+👨🏼‍❤‍💋‍👨🏿	hudtype 3, hudtype 6, kyss, kyss: mann, mann, hudtype 3, hudtype 6, kyssing, mann, mennesker, romantikk
+👨🏽‍❤‍💋‍👨🏻	hudtype 1–2, hudtype 4, kyss, kyss: mann, mann, hudtype 4, hudtype 1–2, kyssing, mann, mennesker, romantikk
+👨🏽‍❤‍💋‍👨🏼	hudtype 3, hudtype 4, kyss, kyss: mann, mann, hudtype 4, hudtype 3, kyssing, mann, mennesker, romantikk
+👨🏽‍❤‍💋‍👨🏽	hudtype 4, kyss, kyss: mann, mann, hudtype 4, kyssing, mann, mennesker, romantikk
+👨🏽‍❤‍💋‍👨🏾	hudtype 4, hudtype 5, kyss, kyss: mann, mann, hudtype 4, hudtype 5, kyssing, mann, mennesker, romantikk
+👨🏽‍❤‍💋‍👨🏿	hudtype 4, hudtype 6, kyss, kyss: mann, mann, hudtype 4, hudtype 6, kyssing, mann, mennesker, romantikk
+👨🏾‍❤‍💋‍👨🏻	hudtype 1–2, hudtype 5, kyss, kyss: mann, mann, hudtype 5, hudtype 1–2, kyssing, mann, mennesker, romantikk
+👨🏾‍❤‍💋‍👨🏼	hudtype 3, hudtype 5, kyss, kyss: mann, mann, hudtype 5, hudtype 3, kyssing, mann, mennesker, romantikk
+👨🏾‍❤‍💋‍👨🏽	hudtype 4, hudtype 5, kyss, kyss: mann, mann, hudtype 5, hudtype 4, kyssing, mann, mennesker, romantikk
+👨🏾‍❤‍💋‍👨🏾	hudtype 5, kyss, kyss: mann, mann, hudtype 5, kyssing, mann, mennesker, romantikk
+👨🏾‍❤‍💋‍👨🏿	hudtype 5, hudtype 6, kyss, kyss: mann, mann, hudtype 5, hudtype 6, kyssing, mann, mennesker, romantikk
+👨🏿‍❤‍💋‍👨🏻	hudtype 1–2, hudtype 6, kyss, kyss: mann, mann, hudtype 6, hudtype 1–2, kyssing, mann, mennesker, romantikk
+👨🏿‍❤‍💋‍👨🏼	hudtype 3, hudtype 6, kyss, kyss: mann, mann, hudtype 6, hudtype 3, kyssing, mann, mennesker, romantikk
+👨🏿‍❤‍💋‍👨🏽	hudtype 4, hudtype 6, kyss, kyss: mann, mann, hudtype 6, hudtype 4, kyssing, mann, mennesker, romantikk
+👨🏿‍❤‍💋‍👨🏾	hudtype 5, hudtype 6, kyss, kyss: mann, mann, hudtype 6, hudtype 5, kyssing, mann, mennesker, romantikk
+👨🏿‍❤‍💋‍👨🏿	hudtype 6, kyss, kyss: mann, mann, hudtype 6, kyssing, mann, mennesker, romantikk
+👨🏻‍❤‍👨🏻	hjerte, hudtype 1–2, kjærlighet, mann, mennesker, par med hjerte, par med hjerte: mann, mann, hudtype 1–2, romantikk
+👨🏻‍❤‍👨🏼	hjerte, hudtype 1–2, hudtype 3, kjærlighet, mann, mennesker, par med hjerte, par med hjerte: mann, mann, hudtype 1–2, hudtype 3, romantikk
+👨🏻‍❤‍👨🏽	hjerte, hudtype 1–2, hudtype 4, kjærlighet, mann, mennesker, par med hjerte, par med hjerte: mann, mann, hudtype 1–2, hudtype 4, romantikk
+👨🏻‍❤‍👨🏾	hjerte, hudtype 1–2, hudtype 5, kjærlighet, mann, mennesker, par med hjerte, par med hjerte: mann, mann, hudtype 1–2, hudtype 5, romantikk
+👨🏻‍❤‍👨🏿	hjerte, hudtype 1–2, hudtype 6, kjærlighet, mann, mennesker, par med hjerte, par med hjerte: mann, mann, hudtype 1–2, hudtype 6, romantikk
+👨🏼‍❤‍👨🏻	hjerte, hudtype 1–2, hudtype 3, kjærlighet, mann, mennesker, par med hjerte, par med hjerte: mann, mann, hudtype 3, hudtype 1–2, romantikk
+👨🏼‍❤‍👨🏼	hjerte, hudtype 3, kjærlighet, mann, mennesker, par med hjerte, par med hjerte: mann, mann, hudtype 3, romantikk
+👨🏼‍❤‍👨🏽	hjerte, hudtype 3, hudtype 4, kjærlighet, mann, mennesker, par med hjerte, par med hjerte: mann, mann, hudtype 3, hudtype 4, romantikk
+👨🏼‍❤‍👨🏾	hjerte, hudtype 3, hudtype 5, kjærlighet, mann, mennesker, par med hjerte, par med hjerte: mann, mann, hudtype 3, hudtype 5, romantikk
+👨🏼‍❤‍👨🏿	hjerte, hudtype 3, hudtype 6, kjærlighet, mann, mennesker, par med hjerte, par med hjerte: mann, mann, hudtype 3, hudtype 6, romantikk
+👨🏽‍❤‍👨🏻	hjerte, hudtype 1–2, hudtype 4, kjærlighet, mann, mennesker, par med hjerte, par med hjerte: mann, mann, hudtype 4, hudtype 1–2, romantikk
+👨🏽‍❤‍👨🏼	hjerte, hudtype 3, hudtype 4, kjærlighet, mann, mennesker, par med hjerte, par med hjerte: mann, mann, hudtype 4, hudtype 3, romantikk
+👨🏽‍❤‍👨🏽	hjerte, hudtype 4, kjærlighet, mann, mennesker, par med hjerte, par med hjerte: mann, mann, hudtype 4, romantikk
+👨🏽‍❤‍👨🏾	hjerte, hudtype 4, hudtype 5, kjærlighet, mann, mennesker, par med hjerte, par med hjerte: mann, mann, hudtype 4, hudtype 5, romantikk
+👨🏽‍❤‍👨🏿	hjerte, hudtype 4, hudtype 6, kjærlighet, mann, mennesker, par med hjerte, par med hjerte: mann, mann, hudtype 4, hudtype 6, romantikk
+👨🏾‍❤‍👨🏻	hjerte, hudtype 1–2, hudtype 5, kjærlighet, mann, mennesker, par med hjerte, par med hjerte: mann, mann, hudtype 5, hudtype 1–2, romantikk
+👨🏾‍❤‍👨🏼	hjerte, hudtype 3, hudtype 5, kjærlighet, mann, mennesker, par med hjerte, par med hjerte: mann, mann, hudtype 5, hudtype 3, romantikk
+👨🏾‍❤‍👨🏽	hjerte, hudtype 4, hudtype 5, kjærlighet, mann, mennesker, par med hjerte, par med hjerte: mann, mann, hudtype 5, hudtype 4, romantikk
+👨🏾‍❤‍👨🏾	hjerte, hudtype 5, kjærlighet, mann, mennesker, par med hjerte, par med hjerte: mann, mann, hudtype 5, romantikk
+👨🏾‍❤‍👨🏿	hjerte, hudtype 5, hudtype 6, kjærlighet, mann, mennesker, par med hjerte, par med hjerte: mann, mann, hudtype 5, hudtype 6, romantikk
+👨🏿‍❤‍👨🏻	hjerte, hudtype 1–2, hudtype 6, kjærlighet, mann, mennesker, par med hjerte, par med hjerte: mann, mann, hudtype 6, hudtype 1–2, romantikk
+👨🏿‍❤‍👨🏼	hjerte, hudtype 3, hudtype 6, kjærlighet, mann, mennesker, par med hjerte, par med hjerte: mann, mann, hudtype 6, hudtype 3, romantikk
+👨🏿‍❤‍👨🏽	hjerte, hudtype 4, hudtype 6, kjærlighet, mann, mennesker, par med hjerte, par med hjerte: mann, mann, hudtype 6, hudtype 4, romantikk
+👨🏿‍❤‍👨🏾	hjerte, hudtype 5, hudtype 6, kjærlighet, mann, mennesker, par med hjerte, par med hjerte: mann, mann, hudtype 6, hudtype 5, romantikk
+👨🏿‍❤‍👨🏿	hjerte, hudtype 6, kjærlighet, mann, mennesker, par med hjerte, par med hjerte: mann, mann, hudtype 6, romantikk
 👨‍🦰	mann, mann: rødt hår, menneske, rødt hår, voksen
 👨🏻‍🦰	hudtype 1–2, mann, mann: hudtype 1–2, rødt hår, menneske, rødt hår, voksen
 👨🏼‍🦰	hudtype 3, mann, mann: hudtype 3, rødt hår, menneske, rødt hår, voksen
@@ -503,12 +1023,118 @@
 👩🏽	hudtype 4, kvinne, kvinne: hudtype 4, menneske, voksen
 👩🏾	hudtype 5, kvinne, kvinne: hudtype 5, menneske, voksen
 👩🏿	hudtype 6, kvinne, kvinne: hudtype 6, menneske, voksen
+🧔‍♀	kvinne, kvinne: skjegg, skjegg
+🧔🏻‍♀	hudtype 1–2, kvinne, kvinne: hudtype 1–2, skjegg, kvinne: skjegg, skjegg
+🧔🏼‍♀	hudtype 3, kvinne, kvinne: hudtype 3, skjegg, kvinne: skjegg, skjegg
+🧔🏽‍♀	hudtype 4, kvinne, kvinne: hudtype 4, skjegg, kvinne: skjegg, skjegg
+🧔🏾‍♀	hudtype 5, kvinne, kvinne: hudtype 5, skjegg, kvinne: skjegg, skjegg
+🧔🏿‍♀	hudtype 6, kvinne, kvinne: hudtype 6, skjegg, kvinne: skjegg, skjegg
 👱‍♀	blond, blondine, hår, kvinne, kvinne: blond
 👱🏻‍♀	blond, blondine, hudtype 1–2, hår, kvinne, kvinne: blond, kvinne: hudtype 1–2, blond
 👱🏼‍♀	blond, blondine, hudtype 3, hår, kvinne, kvinne: blond, kvinne: hudtype 3, blond
 👱🏽‍♀	blond, blondine, hudtype 4, hår, kvinne, kvinne: blond, kvinne: hudtype 4, blond
 👱🏾‍♀	blond, blondine, hudtype 5, hår, kvinne, kvinne: blond, kvinne: hudtype 5, blond
 👱🏿‍♀	blond, blondine, hudtype 6, hår, kvinne, kvinne: blond, kvinne: hudtype 6, blond
+👩🏻‍❤‍💋‍👨🏻	hudtype 1–2, kvinne, kyss, kyss: kvinne, mann, hudtype 1–2, kyssing, mann, mennesker, romantikk
+👩🏻‍❤‍💋‍👨🏼	hudtype 1–2, hudtype 3, kvinne, kyss, kyss: kvinne, mann, hudtype 1–2, hudtype 3, kyssing, mann, mennesker, romantikk
+👩🏻‍❤‍💋‍👨🏽	hudtype 1–2, hudtype 4, kvinne, kyss, kyss: kvinne, mann, hudtype 1–2, hudtype 4, kyssing, mann, mennesker, romantikk
+👩🏻‍❤‍💋‍👨🏾	hudtype 1–2, hudtype 5, kvinne, kyss, kyss: kvinne, mann, hudtype 1–2, hudtype 5, kyssing, mann, mennesker, romantikk
+👩🏻‍❤‍💋‍👨🏿	hudtype 1–2, hudtype 6, kvinne, kyss, kyss: kvinne, mann, hudtype 1–2, hudtype 6, kyssing, mann, mennesker, romantikk
+👩🏼‍❤‍💋‍👨🏻	hudtype 1–2, hudtype 3, kvinne, kyss, kyss: kvinne, mann, hudtype 3, hudtype 1–2, kyssing, mann, mennesker, romantikk
+👩🏼‍❤‍💋‍👨🏼	hudtype 3, kvinne, kyss, kyss: kvinne, mann, hudtype 3, kyssing, mann, mennesker, romantikk
+👩🏼‍❤‍💋‍👨🏽	hudtype 3, hudtype 4, kvinne, kyss, kyss: kvinne, mann, hudtype 3, hudtype 4, kyssing, mann, mennesker, romantikk
+👩🏼‍❤‍💋‍👨🏾	hudtype 3, hudtype 5, kvinne, kyss, kyss: kvinne, mann, hudtype 3, hudtype 5, kyssing, mann, mennesker, romantikk
+👩🏼‍❤‍💋‍👨🏿	hudtype 3, hudtype 6, kvinne, kyss, kyss: kvinne, mann, hudtype 3, hudtype 6, kyssing, mann, mennesker, romantikk
+👩🏽‍❤‍💋‍👨🏻	hudtype 1–2, hudtype 4, kvinne, kyss, kyss: kvinne, mann, hudtype 4, hudtype 1–2, kyssing, mann, mennesker, romantikk
+👩🏽‍❤‍💋‍👨🏼	hudtype 3, hudtype 4, kvinne, kyss, kyss: kvinne, mann, hudtype 4, hudtype 3, kyssing, mann, mennesker, romantikk
+👩🏽‍❤‍💋‍👨🏽	hudtype 4, kvinne, kyss, kyss: kvinne, mann, hudtype 4, kyssing, mann, mennesker, romantikk
+👩🏽‍❤‍💋‍👨🏾	hudtype 4, hudtype 5, kvinne, kyss, kyss: kvinne, mann, hudtype 4, hudtype 5, kyssing, mann, mennesker, romantikk
+👩🏽‍❤‍💋‍👨🏿	hudtype 4, hudtype 6, kvinne, kyss, kyss: kvinne, mann, hudtype 4, hudtype 6, kyssing, mann, mennesker, romantikk
+👩🏾‍❤‍💋‍👨🏻	hudtype 1–2, hudtype 5, kvinne, kyss, kyss: kvinne, mann, hudtype 5, hudtype 1–2, kyssing, mann, mennesker, romantikk
+👩🏾‍❤‍💋‍👨🏼	hudtype 3, hudtype 5, kvinne, kyss, kyss: kvinne, mann, hudtype 5, hudtype 3, kyssing, mann, mennesker, romantikk
+👩🏾‍❤‍💋‍👨🏽	hudtype 4, hudtype 5, kvinne, kyss, kyss: kvinne, mann, hudtype 5, hudtype 4, kyssing, mann, mennesker, romantikk
+👩🏾‍❤‍💋‍👨🏾	hudtype 5, kvinne, kyss, kyss: kvinne, mann, hudtype 5, kyssing, mann, mennesker, romantikk
+👩🏾‍❤‍💋‍👨🏿	hudtype 5, hudtype 6, kvinne, kyss, kyss: kvinne, mann, hudtype 5, hudtype 6, kyssing, mann, mennesker, romantikk
+👩🏿‍❤‍💋‍👨🏻	hudtype 1–2, hudtype 6, kvinne, kyss, kyss: kvinne, mann, hudtype 6, hudtype 1–2, kyssing, mann, mennesker, romantikk
+👩🏿‍❤‍💋‍👨🏼	hudtype 3, hudtype 6, kvinne, kyss, kyss: kvinne, mann, hudtype 6, hudtype 3, kyssing, mann, mennesker, romantikk
+👩🏿‍❤‍💋‍👨🏽	hudtype 4, hudtype 6, kvinne, kyss, kyss: kvinne, mann, hudtype 6, hudtype 4, kyssing, mann, mennesker, romantikk
+👩🏿‍❤‍💋‍👨🏾	hudtype 5, hudtype 6, kvinne, kyss, kyss: kvinne, mann, hudtype 6, hudtype 5, kyssing, mann, mennesker, romantikk
+👩🏿‍❤‍💋‍👨🏿	hudtype 6, kvinne, kyss, kyss: kvinne, mann, hudtype 6, kyssing, mann, mennesker, romantikk
+👩🏻‍❤‍💋‍👩🏻	hudtype 1–2, kvinne, kyss, kyss: kvinne, kvinne, hudtype 1–2, kyssing, mennesker, romantikk
+👩🏻‍❤‍💋‍👩🏼	hudtype 1–2, hudtype 3, kvinne, kyss, kyss: kvinne, kvinne, hudtype 1–2, hudtype 3, kyssing, mennesker, romantikk
+👩🏻‍❤‍💋‍👩🏽	hudtype 1–2, hudtype 4, kvinne, kyss, kyss: kvinne, kvinne, hudtype 1–2, hudtype 4, kyssing, mennesker, romantikk
+👩🏻‍❤‍💋‍👩🏾	hudtype 1–2, hudtype 5, kvinne, kyss, kyss: kvinne, kvinne, hudtype 1–2, hudtype 5, kyssing, mennesker, romantikk
+👩🏻‍❤‍💋‍👩🏿	hudtype 1–2, hudtype 6, kvinne, kyss, kyss: kvinne, kvinne, hudtype 1–2, hudtype 6, kyssing, mennesker, romantikk
+👩🏼‍❤‍💋‍👩🏻	hudtype 1–2, hudtype 3, kvinne, kyss, kyss: kvinne, kvinne, hudtype 3, hudtype 1–2, kyssing, mennesker, romantikk
+👩🏼‍❤‍💋‍👩🏼	hudtype 3, kvinne, kyss, kyss: kvinne, kvinne, hudtype 3, kyssing, mennesker, romantikk
+👩🏼‍❤‍💋‍👩🏽	hudtype 3, hudtype 4, kvinne, kyss, kyss: kvinne, kvinne, hudtype 3, hudtype 4, kyssing, mennesker, romantikk
+👩🏼‍❤‍💋‍👩🏾	hudtype 3, hudtype 5, kvinne, kyss, kyss: kvinne, kvinne, hudtype 3, hudtype 5, kyssing, mennesker, romantikk
+👩🏼‍❤‍💋‍👩🏿	hudtype 3, hudtype 6, kvinne, kyss, kyss: kvinne, kvinne, hudtype 3, hudtype 6, kyssing, mennesker, romantikk
+👩🏽‍❤‍💋‍👩🏻	hudtype 1–2, hudtype 4, kvinne, kyss, kyss: kvinne, kvinne, hudtype 4, hudtype 1–2, kyssing, mennesker, romantikk
+👩🏽‍❤‍💋‍👩🏼	hudtype 3, hudtype 4, kvinne, kyss, kyss: kvinne, kvinne, hudtype 4, hudtype 3, kyssing, mennesker, romantikk
+👩🏽‍❤‍💋‍👩🏽	hudtype 4, kvinne, kyss, kyss: kvinne, kvinne, hudtype 4, kyssing, mennesker, romantikk
+👩🏽‍❤‍💋‍👩🏾	hudtype 4, hudtype 5, kvinne, kyss, kyss: kvinne, kvinne, hudtype 4, hudtype 5, kyssing, mennesker, romantikk
+👩🏽‍❤‍💋‍👩🏿	hudtype 4, hudtype 6, kvinne, kyss, kyss: kvinne, kvinne, hudtype 4, hudtype 6, kyssing, mennesker, romantikk
+👩🏾‍❤‍💋‍👩🏻	hudtype 1–2, hudtype 5, kvinne, kyss, kyss: kvinne, kvinne, hudtype 5, hudtype 1–2, kyssing, mennesker, romantikk
+👩🏾‍❤‍💋‍👩🏼	hudtype 3, hudtype 5, kvinne, kyss, kyss: kvinne, kvinne, hudtype 5, hudtype 3, kyssing, mennesker, romantikk
+👩🏾‍❤‍💋‍👩🏽	hudtype 4, hudtype 5, kvinne, kyss, kyss: kvinne, kvinne, hudtype 5, hudtype 4, kyssing, mennesker, romantikk
+👩🏾‍❤‍💋‍👩🏾	hudtype 5, kvinne, kyss, kyss: kvinne, kvinne, hudtype 5, kyssing, mennesker, romantikk
+👩🏾‍❤‍💋‍👩🏿	hudtype 5, hudtype 6, kvinne, kyss, kyss: kvinne, kvinne, hudtype 5, hudtype 6, kyssing, mennesker, romantikk
+👩🏿‍❤‍💋‍👩🏻	hudtype 1–2, hudtype 6, kvinne, kyss, kyss: kvinne, kvinne, hudtype 6, hudtype 1–2, kyssing, mennesker, romantikk
+👩🏿‍❤‍💋‍👩🏼	hudtype 3, hudtype 6, kvinne, kyss, kyss: kvinne, kvinne, hudtype 6, hudtype 3, kyssing, mennesker, romantikk
+👩🏿‍❤‍💋‍👩🏽	hudtype 4, hudtype 6, kvinne, kyss, kyss: kvinne, kvinne, hudtype 6, hudtype 4, kyssing, mennesker, romantikk
+👩🏿‍❤‍💋‍👩🏾	hudtype 5, hudtype 6, kvinne, kyss, kyss: kvinne, kvinne, hudtype 6, hudtype 5, kyssing, mennesker, romantikk
+👩🏿‍❤‍💋‍👩🏿	hudtype 6, kvinne, kyss, kyss: kvinne, kvinne, hudtype 6, kyssing, mennesker, romantikk
+👩🏻‍❤‍👨🏻	hjerte, hudtype 1–2, kjærlighet, kvinne, mann, mennesker, par med hjerte, par med hjerte: kvinne, mann, hudtype 1–2, romantikk
+👩🏻‍❤‍👨🏼	hjerte, hudtype 1–2, hudtype 3, kjærlighet, kvinne, mann, mennesker, par med hjerte, par med hjerte: kvinne, mann, hudtype 1–2, hudtype 3, romantikk
+👩🏻‍❤‍👨🏽	hjerte, hudtype 1–2, hudtype 4, kjærlighet, kvinne, mann, mennesker, par med hjerte, par med hjerte: kvinne, mann, hudtype 1–2, hudtype 4, romantikk
+👩🏻‍❤‍👨🏾	hjerte, hudtype 1–2, hudtype 5, kjærlighet, kvinne, mann, mennesker, par med hjerte, par med hjerte: kvinne, mann, hudtype 1–2, hudtype 5, romantikk
+👩🏻‍❤‍👨🏿	hjerte, hudtype 1–2, hudtype 6, kjærlighet, kvinne, mann, mennesker, par med hjerte, par med hjerte: kvinne, mann, hudtype 1–2, hudtype 6, romantikk
+👩🏼‍❤‍👨🏻	hjerte, hudtype 1–2, hudtype 3, kjærlighet, kvinne, mann, mennesker, par med hjerte, par med hjerte: kvinne, mann, hudtype 3, hudtype 1–2, romantikk
+👩🏼‍❤‍👨🏼	hjerte, hudtype 3, kjærlighet, kvinne, mann, mennesker, par med hjerte, par med hjerte: kvinne, mann, hudtype 3, romantikk
+👩🏼‍❤‍👨🏽	hjerte, hudtype 3, hudtype 4, kjærlighet, kvinne, mann, mennesker, par med hjerte, par med hjerte: kvinne, mann, hudtype 3, hudtype 4, romantikk
+👩🏼‍❤‍👨🏾	hjerte, hudtype 3, hudtype 5, kjærlighet, kvinne, mann, mennesker, par med hjerte, par med hjerte: kvinne, mann, hudtype 3, hudtype 5, romantikk
+👩🏼‍❤‍👨🏿	hjerte, hudtype 3, hudtype 6, kjærlighet, kvinne, mann, mennesker, par med hjerte, par med hjerte: kvinne, mann, hudtype 3, hudtype 6, romantikk
+👩🏽‍❤‍👨🏻	hjerte, hudtype 1–2, hudtype 4, kjærlighet, kvinne, mann, mennesker, par med hjerte, par med hjerte: kvinne, mann, hudtype 4, hudtype 1–2, romantikk
+👩🏽‍❤‍👨🏼	hjerte, hudtype 3, hudtype 4, kjærlighet, kvinne, mann, mennesker, par med hjerte, par med hjerte: kvinne, mann, hudtype 4, hudtype 3, romantikk
+👩🏽‍❤‍👨🏽	hjerte, hudtype 4, kjærlighet, kvinne, mann, mennesker, par med hjerte, par med hjerte: kvinne, mann, hudtype 4, romantikk
+👩🏽‍❤‍👨🏾	hjerte, hudtype 4, hudtype 5, kjærlighet, kvinne, mann, mennesker, par med hjerte, par med hjerte: kvinne, mann, hudtype 4, hudtype 5, romantikk
+👩🏽‍❤‍👨🏿	hjerte, hudtype 4, hudtype 6, kjærlighet, kvinne, mann, mennesker, par med hjerte, par med hjerte: kvinne, mann, hudtype 4, hudtype 6, romantikk
+👩🏾‍❤‍👨🏻	hjerte, hudtype 1–2, hudtype 5, kjærlighet, kvinne, mann, mennesker, par med hjerte, par med hjerte: kvinne, mann, hudtype 5, hudtype 1–2, romantikk
+👩🏾‍❤‍👨🏼	hjerte, hudtype 3, hudtype 5, kjærlighet, kvinne, mann, mennesker, par med hjerte, par med hjerte: kvinne, mann, hudtype 5, hudtype 3, romantikk
+👩🏾‍❤‍👨🏽	hjerte, hudtype 4, hudtype 5, kjærlighet, kvinne, mann, mennesker, par med hjerte, par med hjerte: kvinne, mann, hudtype 5, hudtype 4, romantikk
+👩🏾‍❤‍👨🏾	hjerte, hudtype 5, kjærlighet, kvinne, mann, mennesker, par med hjerte, par med hjerte: kvinne, mann, hudtype 5, romantikk
+👩🏾‍❤‍👨🏿	hjerte, hudtype 5, hudtype 6, kjærlighet, kvinne, mann, mennesker, par med hjerte, par med hjerte: kvinne, mann, hudtype 5, hudtype 6, romantikk
+👩🏿‍❤‍👨🏻	hjerte, hudtype 1–2, hudtype 6, kjærlighet, kvinne, mann, mennesker, par med hjerte, par med hjerte: kvinne, mann, hudtype 6, hudtype 1–2, romantikk
+👩🏿‍❤‍👨🏼	hjerte, hudtype 3, hudtype 6, kjærlighet, kvinne, mann, mennesker, par med hjerte, par med hjerte: kvinne, mann, hudtype 6, hudtype 3, romantikk
+👩🏿‍❤‍👨🏽	hjerte, hudtype 4, hudtype 6, kjærlighet, kvinne, mann, mennesker, par med hjerte, par med hjerte: kvinne, mann, hudtype 6, hudtype 4, romantikk
+👩🏿‍❤‍👨🏾	hjerte, hudtype 5, hudtype 6, kjærlighet, kvinne, mann, mennesker, par med hjerte, par med hjerte: kvinne, mann, hudtype 6, hudtype 5, romantikk
+👩🏿‍❤‍👨🏿	hjerte, hudtype 6, kjærlighet, kvinne, mann, mennesker, par med hjerte, par med hjerte: kvinne, mann, hudtype 6, romantikk
+👩🏻‍❤‍👩🏻	hjerte, hudtype 1–2, kjærlighet, kvinne, mennesker, par med hjerte, par med hjerte: kvinne, kvinne, hudtype 1–2, romantikk
+👩🏻‍❤‍👩🏼	hjerte, hudtype 1–2, hudtype 3, kjærlighet, kvinne, mennesker, par med hjerte, par med hjerte: kvinne, kvinne, hudtype 1–2, hudtype 3, romantikk
+👩🏻‍❤‍👩🏽	hjerte, hudtype 1–2, hudtype 4, kjærlighet, kvinne, mennesker, par med hjerte, par med hjerte: kvinne, kvinne, hudtype 1–2, hudtype 4, romantikk
+👩🏻‍❤‍👩🏾	hjerte, hudtype 1–2, hudtype 5, kjærlighet, kvinne, mennesker, par med hjerte, par med hjerte: kvinne, kvinne, hudtype 1–2, hudtype 5, romantikk
+👩🏻‍❤‍👩🏿	hjerte, hudtype 1–2, hudtype 6, kjærlighet, kvinne, mennesker, par med hjerte, par med hjerte: kvinne, kvinne, hudtype 1–2, hudtype 6, romantikk
+👩🏼‍❤‍👩🏻	hjerte, hudtype 1–2, hudtype 3, kjærlighet, kvinne, mennesker, par med hjerte, par med hjerte: kvinne, kvinne, hudtype 3, hudtype 1–2, romantikk
+👩🏼‍❤‍👩🏼	hjerte, hudtype 3, kjærlighet, kvinne, mennesker, par med hjerte, par med hjerte: kvinne, kvinne, hudtype 3, romantikk
+👩🏼‍❤‍👩🏽	hjerte, hudtype 3, hudtype 4, kjærlighet, kvinne, mennesker, par med hjerte, par med hjerte: kvinne, kvinne, hudtype 3, hudtype 4, romantikk
+👩🏼‍❤‍👩🏾	hjerte, hudtype 3, hudtype 5, kjærlighet, kvinne, mennesker, par med hjerte, par med hjerte: kvinne, kvinne, hudtype 3, hudtype 5, romantikk
+👩🏼‍❤‍👩🏿	hjerte, hudtype 3, hudtype 6, kjærlighet, kvinne, mennesker, par med hjerte, par med hjerte: kvinne, kvinne, hudtype 3, hudtype 6, romantikk
+👩🏽‍❤‍👩🏻	hjerte, hudtype 1–2, hudtype 4, kjærlighet, kvinne, mennesker, par med hjerte, par med hjerte: kvinne, kvinne, hudtype 4, hudtype 1–2, romantikk
+👩🏽‍❤‍👩🏼	hjerte, hudtype 3, hudtype 4, kjærlighet, kvinne, mennesker, par med hjerte, par med hjerte: kvinne, kvinne, hudtype 4, hudtype 3, romantikk
+👩🏽‍❤‍👩🏽	hjerte, hudtype 4, kjærlighet, kvinne, mennesker, par med hjerte, par med hjerte: kvinne, kvinne, hudtype 4, romantikk
+👩🏽‍❤‍👩🏾	hjerte, hudtype 4, hudtype 5, kjærlighet, kvinne, mennesker, par med hjerte, par med hjerte: kvinne, kvinne, hudtype 4, hudtype 5, romantikk
+👩🏽‍❤‍👩🏿	hjerte, hudtype 4, hudtype 6, kjærlighet, kvinne, mennesker, par med hjerte, par med hjerte: kvinne, kvinne, hudtype 4, hudtype 6, romantikk
+👩🏾‍❤‍👩🏻	hjerte, hudtype 1–2, hudtype 5, kjærlighet, kvinne, mennesker, par med hjerte, par med hjerte: kvinne, kvinne, hudtype 5, hudtype 1–2, romantikk
+👩🏾‍❤‍👩🏼	hjerte, hudtype 3, hudtype 5, kjærlighet, kvinne, mennesker, par med hjerte, par med hjerte: kvinne, kvinne, hudtype 5, hudtype 3, romantikk
+👩🏾‍❤‍👩🏽	hjerte, hudtype 4, hudtype 5, kjærlighet, kvinne, mennesker, par med hjerte, par med hjerte: kvinne, kvinne, hudtype 5, hudtype 4, romantikk
+👩🏾‍❤‍👩🏾	hjerte, hudtype 5, kjærlighet, kvinne, mennesker, par med hjerte, par med hjerte: kvinne, kvinne, hudtype 5, romantikk
+👩🏾‍❤‍👩🏿	hjerte, hudtype 5, hudtype 6, kjærlighet, kvinne, mennesker, par med hjerte, par med hjerte: kvinne, kvinne, hudtype 5, hudtype 6, romantikk
+👩🏿‍❤‍👩🏻	hjerte, hudtype 1–2, hudtype 6, kjærlighet, kvinne, mennesker, par med hjerte, par med hjerte: kvinne, kvinne, hudtype 6, hudtype 1–2, romantikk
+👩🏿‍❤‍👩🏼	hjerte, hudtype 3, hudtype 6, kjærlighet, kvinne, mennesker, par med hjerte, par med hjerte: kvinne, kvinne, hudtype 6, hudtype 3, romantikk
+👩🏿‍❤‍👩🏽	hjerte, hudtype 4, hudtype 6, kjærlighet, kvinne, mennesker, par med hjerte, par med hjerte: kvinne, kvinne, hudtype 6, hudtype 4, romantikk
+👩🏿‍❤‍👩🏾	hjerte, hudtype 5, hudtype 6, kjærlighet, kvinne, mennesker, par med hjerte, par med hjerte: kvinne, kvinne, hudtype 6, hudtype 5, romantikk
+👩🏿‍❤‍👩🏿	hjerte, hudtype 6, kjærlighet, kvinne, mennesker, par med hjerte, par med hjerte: kvinne, kvinne, hudtype 6, romantikk
 👩‍🦰	kvinne, kvinne: rødt hår, menneske, rødt hår, voksen
 👩🏻‍🦰	hudtype 1–2, kvinne, kvinne: hudtype 1–2, rødt hår, menneske, rødt hår, voksen
 👩🏼‍🦰	hudtype 3, kvinne, kvinne: hudtype 3, rødt hår, menneske, rødt hår, voksen
@@ -869,12 +1495,12 @@
 👨🏽‍🏭	arbeider, fabrikk, hudtype 4, industri, industriarbeider, mann, mannlig industriarbeider, mannlig industriarbeider: hudtype 4, produksjon
 👨🏾‍🏭	arbeider, fabrikk, hudtype 5, industri, industriarbeider, mann, mannlig industriarbeider, mannlig industriarbeider: hudtype 5, produksjon
 👨🏿‍🏭	arbeider, fabrikk, hudtype 6, industri, industriarbeider, mann, mannlig industriarbeider, mannlig industriarbeider: hudtype 6, produksjon
-👩‍🏭	arbeider, fabrikk, industri, industriarbeider, kvinne, kvinnelig industriarbeider, produksjon
-👩🏻‍🏭	arbeider, fabrikk, hudtype 1–2, industri, industriarbeider, kvinne, kvinnelig industriarbeider, kvinnelig industriarbeider: hudtype 1–2, produksjon
-👩🏼‍🏭	arbeider, fabrikk, hudtype 3, industri, industriarbeider, kvinne, kvinnelig industriarbeider, kvinnelig industriarbeider: hudtype 3, produksjon
-👩🏽‍🏭	arbeider, fabrikk, hudtype 4, industri, industriarbeider, kvinne, kvinnelig industriarbeider, kvinnelig industriarbeider: hudtype 4, produksjon
-👩🏾‍🏭	arbeider, fabrikk, hudtype 5, industri, industriarbeider, kvinne, kvinnelig industriarbeider, kvinnelig industriarbeider: hudtype 5, produksjon
-👩🏿‍🏭	arbeider, fabrikk, hudtype 6, industri, industriarbeider, kvinne, kvinnelig industriarbeider, kvinnelig industriarbeider: hudtype 6, produksjon
+👩‍🏭	fabrikk, industri, kvinne, kvinnelig industriarbeider, produksjon
+👩🏻‍🏭	fabrikk, hudtype 1–2, industri, kvinne, kvinnelig industriarbeider, kvinnelig industriarbeider: hudtype 1–2, produksjon
+👩🏼‍🏭	fabrikk, hudtype 3, industri, kvinne, kvinnelig industriarbeider, kvinnelig industriarbeider: hudtype 3, produksjon
+👩🏽‍🏭	fabrikk, hudtype 4, industri, kvinne, kvinnelig industriarbeider, kvinnelig industriarbeider: hudtype 4, produksjon
+👩🏾‍🏭	fabrikk, hudtype 5, industri, kvinne, kvinnelig industriarbeider, kvinnelig industriarbeider: hudtype 5, produksjon
+👩🏿‍🏭	fabrikk, hudtype 6, industri, kvinne, kvinnelig industriarbeider, kvinnelig industriarbeider: hudtype 6, produksjon
 🧑‍💼	kontor, kontorarbeider, leder, næringsliv
 🧑🏻‍💼	hudtype 1–2, kontor, kontorarbeider, kontorarbeider: hudtype 1–2, leder, næringsliv
 🧑🏼‍💼	hudtype 3, kontor, kontorarbeider, kontorarbeider: hudtype 3, leder, næringsliv
@@ -899,18 +1525,18 @@
 🧑🏽‍🔬	biologi, forsker, forsker: hudtype 4, forskning, hudtype 4, kjemi, lab, laboratorium, medisin, vitenskap
 🧑🏾‍🔬	biologi, forsker, forsker: hudtype 5, forskning, hudtype 5, kjemi, lab, laboratorium, medisin, vitenskap
 🧑🏿‍🔬	biologi, forsker, forsker: hudtype 6, forskning, hudtype 6, kjemi, lab, laboratorium, medisin, vitenskap
-👨‍🔬	biologi, forsker, forskning, kjemi, lab, laboratorium, mann, mannlig forsker, medisin, vitenskap
-👨🏻‍🔬	biologi, forsker, forskning, hudtype 1–2, kjemi, lab, laboratorium, mann, mannlig forsker, mannlig forsker: hudtype 1–2, medisin, vitenskap
-👨🏼‍🔬	biologi, forsker, forskning, hudtype 3, kjemi, lab, laboratorium, mann, mannlig forsker, mannlig forsker: hudtype 3, medisin, vitenskap
-👨🏽‍🔬	biologi, forsker, forskning, hudtype 4, kjemi, lab, laboratorium, mann, mannlig forsker, mannlig forsker: hudtype 4, medisin, vitenskap
-👨🏾‍🔬	biologi, forsker, forskning, hudtype 5, kjemi, lab, laboratorium, mann, mannlig forsker, mannlig forsker: hudtype 5, medisin, vitenskap
-👨🏿‍🔬	biologi, forsker, forskning, hudtype 6, kjemi, lab, laboratorium, mann, mannlig forsker, mannlig forsker: hudtype 6, medisin, vitenskap
-👩‍🔬	biologi, forsker, forskning, kjemi, kvinne, kvinnelig forsker, lab, laboratorium, medisin, vitenskap
-👩🏻‍🔬	biologi, forsker, forskning, hudtype 1–2, kjemi, kvinne, kvinnelig forsker, kvinnelig forsker: hudtype 1–2, lab, laboratorium, medisin, vitenskap
-👩🏼‍🔬	biologi, forsker, forskning, hudtype 3, kjemi, kvinne, kvinnelig forsker, kvinnelig forsker: hudtype 3, lab, laboratorium, medisin, vitenskap
-👩🏽‍🔬	biologi, forsker, forskning, hudtype 4, kjemi, kvinne, kvinnelig forsker, kvinnelig forsker: hudtype 4, lab, laboratorium, medisin, vitenskap
-👩🏾‍🔬	biologi, forsker, forskning, hudtype 5, kjemi, kvinne, kvinnelig forsker, kvinnelig forsker: hudtype 5, lab, laboratorium, medisin, vitenskap
-👩🏿‍🔬	biologi, forsker, forskning, hudtype 6, kjemi, kvinne, kvinnelig forsker, kvinnelig forsker: hudtype 6, lab, laboratorium, medisin, vitenskap
+👨‍🔬	kjemi, laboratorium, mann, mannlig forsker, vitenskap
+👨🏻‍🔬	hudtype 1–2, kjemi, laboratorium, mann, mannlig forsker, mannlig forsker: hudtype 1–2, vitenskap
+👨🏼‍🔬	hudtype 3, kjemi, laboratorium, mann, mannlig forsker, mannlig forsker: hudtype 3, vitenskap
+👨🏽‍🔬	hudtype 4, kjemi, laboratorium, mann, mannlig forsker, mannlig forsker: hudtype 4, vitenskap
+👨🏾‍🔬	hudtype 5, kjemi, laboratorium, mann, mannlig forsker, mannlig forsker: hudtype 5, vitenskap
+👨🏿‍🔬	hudtype 6, kjemi, laboratorium, mann, mannlig forsker, mannlig forsker: hudtype 6, vitenskap
+👩‍🔬	kjemi, kvinne, kvinnelig forsker, laboratorium, vitenskap
+👩🏻‍🔬	hudtype 1–2, kjemi, kvinne, kvinnelig forsker, kvinnelig forsker: hudtype 1–2, laboratorium, vitenskap
+👩🏼‍🔬	hudtype 3, kjemi, kvinne, kvinnelig forsker, kvinnelig forsker: hudtype 3, laboratorium, vitenskap
+👩🏽‍🔬	hudtype 4, kjemi, kvinne, kvinnelig forsker, kvinnelig forsker: hudtype 4, laboratorium, vitenskap
+👩🏾‍🔬	hudtype 5, kjemi, kvinne, kvinnelig forsker, kvinnelig forsker: hudtype 5, laboratorium, vitenskap
+👩🏿‍🔬	hudtype 6, kjemi, kvinne, kvinnelig forsker, kvinnelig forsker: hudtype 6, laboratorium, vitenskap
 🧑‍💻	IT, IT-ekspert, data, koding, programvare, teknologi
 🧑🏻‍💻	IT, IT-ekspert, IT-ekspert: hudtype 1–2, data, hudtype 1–2, koding, programvare, teknologi
 🧑🏼‍💻	IT, IT-ekspert, IT-ekspert: hudtype 3, data, hudtype 3, koding, programvare, teknologi
@@ -935,12 +1561,12 @@
 🧑🏽‍🎤	artist, artist: hudtype 4, hudtype 4, konsert, rock, sanger
 🧑🏾‍🎤	artist, artist: hudtype 5, hudtype 5, konsert, rock, sanger
 🧑🏿‍🎤	artist, artist: hudtype 6, hudtype 6, konsert, rock, sanger
-👨‍🎤	artist, konsert, mann, mannlig artist, rock, sanger
-👨🏻‍🎤	artist, hudtype 1–2, konsert, mann, mannlig artist, mannlig artist: hudtype 1–2, rock, sanger
-👨🏼‍🎤	artist, hudtype 3, konsert, mann, mannlig artist, mannlig artist: hudtype 3, rock, sanger
-👨🏽‍🎤	artist, hudtype 4, konsert, mann, mannlig artist, mannlig artist: hudtype 4, rock, sanger
-👨🏾‍🎤	artist, hudtype 5, konsert, mann, mannlig artist, mannlig artist: hudtype 5, rock, sanger
-👨🏿‍🎤	artist, hudtype 6, konsert, mann, mannlig artist, mannlig artist: hudtype 6, rock, sanger
+👨‍🎤	artist, konsert, mann, mannlig artist, sanger
+👨🏻‍🎤	artist, hudtype 1–2, konsert, mann, mannlig artist, mannlig artist: hudtype 1–2, sanger
+👨🏼‍🎤	artist, hudtype 3, konsert, mann, mannlig artist, mannlig artist: hudtype 3, sanger
+👨🏽‍🎤	artist, hudtype 4, konsert, mann, mannlig artist, mannlig artist: hudtype 4, sanger
+👨🏾‍🎤	artist, hudtype 5, konsert, mann, mannlig artist, mannlig artist: hudtype 5, sanger
+👨🏿‍🎤	artist, hudtype 6, konsert, mann, mannlig artist, mannlig artist: hudtype 6, sanger
 👩‍🎤	artist, konsert, kvinne, kvinnelig artist, rock, sanger
 👩🏻‍🎤	artist, hudtype 1–2, konsert, kvinne, kvinnelig artist, kvinnelig artist: hudtype 1–2, rock, sanger
 👩🏼‍🎤	artist, hudtype 3, konsert, kvinne, kvinnelig artist, kvinnelig artist: hudtype 3, rock, sanger
@@ -1074,6 +1700,11 @@
 💂🏾‍♀	gardist, hudtype 5, kvinne, kvinnelig gardist, kvinnelig gardist: hudtype 5, vakt
 💂🏿‍♀	gardist, hudtype 6, kvinne, kvinnelig gardist, kvinnelig gardist: hudtype 6, vakt
 🥷	kampkunst, kriger, ninja, skjult
+🥷🏻	hudtype 1–2, kampkunst, kriger, ninja, ninja: hudtype 1–2, skjult
+🥷🏼	hudtype 3, kampkunst, kriger, ninja, ninja: hudtype 3, skjult
+🥷🏽	hudtype 4, kampkunst, kriger, ninja, ninja: hudtype 4, skjult
+🥷🏾	hudtype 5, kampkunst, kriger, ninja, ninja: hudtype 5, skjult
+🥷🏿	hudtype 6, kampkunst, kriger, ninja, ninja: hudtype 6, skjult
 👷	anlegg, anleggsarbeider, arbeider, hjelm, ingeniør, menneske
 👷🏻	anlegg, anleggsarbeider, anleggsarbeider: hudtype 1–2, arbeider, hjelm, hudtype 1–2, ingeniør, menneske
 👷🏼	anlegg, anleggsarbeider, anleggsarbeider: hudtype 3, arbeider, hjelm, hudtype 3, ingeniør, menneske
@@ -1092,6 +1723,12 @@
 👷🏽‍♀	anlegg, arbeider, bygg, hjelm, hudtype 4, ingeniør, kvinne, kvinnelig anleggsarbeider, kvinnelig anleggsarbeider: hudtype 4
 👷🏾‍♀	anlegg, arbeider, bygg, hjelm, hudtype 5, ingeniør, kvinne, kvinnelig anleggsarbeider, kvinnelig anleggsarbeider: hudtype 5
 👷🏿‍♀	anlegg, arbeider, bygg, hjelm, hudtype 6, ingeniør, kvinne, kvinnelig anleggsarbeider, kvinnelig anleggsarbeider: hudtype 6
+🫅	adel, kongelig, majestetisk, monark, person med krone
+🫅🏻	adel, hudtype 1–2, kongelig, majestetisk, monark, person med krone, person med krone: hudtype 1–2
+🫅🏼	adel, hudtype 3, kongelig, majestetisk, monark, person med krone, person med krone: hudtype 3
+🫅🏽	adel, hudtype 4, kongelig, majestetisk, monark, person med krone, person med krone: hudtype 4
+🫅🏾	adel, hudtype 5, kongelig, majestetisk, monark, person med krone, person med krone: hudtype 5
+🫅🏿	adel, hudtype 6, kongelig, majestetisk, monark, person med krone, person med krone: hudtype 6
 🤴	prins
 🤴🏻	hudtype 1–2, prins, prins: hudtype 1–2
 🤴🏼	hudtype 3, prins, prins: hudtype 3
@@ -1176,6 +1813,18 @@
 🤰🏽	gravid, gravid kvinne: hudtype 4, hudtype 4, kvinne
 🤰🏾	gravid, gravid kvinne: hudtype 5, hudtype 5, kvinne
 🤰🏿	gravid, gravid kvinne: hudtype 6, hudtype 6, kvinne
+🫃	full mage, gravid, gravid mann, mann, mett, oppblåst
+🫃🏻	full mage, gravid, gravid mann: hudtype 1–2, hudtype 1–2, mann, mett, oppblåst
+🫃🏼	full mage, gravid, gravid mann: hudtype 3, hudtype 3, mann, mett, oppblåst
+🫃🏽	full mage, gravid, gravid mann: hudtype 4, hudtype 4, mann, mett, oppblåst
+🫃🏾	full mage, gravid, gravid mann: hudtype 5, hudtype 5, mann, mett, oppblåst
+🫃🏿	full mage, gravid, gravid mann: hudtype 6, hudtype 6, mann, mett, oppblåst
+🫄	full mage, gravid, gravid person, kjønnsnøytral, mett, oppblåst
+🫄🏻	full mage, gravid, gravid person, gravid person: hudtype 1–2, hudtype 1–2, kjønnsnøytral, mett, oppblåst
+🫄🏼	full mage, gravid, gravid person, gravid person: hudtype 3, hudtype 3, kjønnsnøytral, mett, oppblåst
+🫄🏽	full mage, gravid, gravid person, gravid person: hudtype 4, hudtype 4, kjønnsnøytral, mett, oppblåst
+🫄🏾	full mage, gravid, gravid person, gravid person: hudtype 5, hudtype 5, kjønnsnøytral, mett, oppblåst
+🫄🏿	full mage, gravid, gravid person, gravid person: hudtype 6, hudtype 6, kjønnsnøytral, mett, oppblåst
 🤱	ammer, amming, baby, bryst, morsmelk
 🤱🏻	ammer, ammer: hudtype 1–2, amming, baby, bryst, hudtype 1–2, morsmelk
 🤱🏼	ammer, ammer: hudtype 3, amming, baby, bryst, hudtype 3, morsmelk
@@ -1356,6 +2005,7 @@
 🧟	udød, vandød, zombie
 🧟‍♂	mannlig zombie, udød, vandød
 🧟‍♀	kvinnelig zombie, udød, vandød
+🧌	eventyr, fantasi, fantasy, monster, troll
 💆	ansikt, ansiktsmassasje, massasje, skjønnhetssalong
 💆🏻	ansikt, ansiktsmassasje, ansiktsmassasje: hudtype 1–2, hudtype 1–2, massasje, skjønnhetssalong
 💆🏼	ansikt, ansiktsmassasje, ansiktsmassasje: hudtype 3, hudtype 3, massasje, skjønnhetssalong
@@ -1943,10 +2593,20 @@
 👨🏿‍🤝‍👨🏾	holde hender, hudtype 5, hudtype 6, hånd, mann, menn, menn som leier, menn som leier: hudtype 6, hudtype 5, par, stjernetegn, tvillingene
 👬🏿	holde hender, hudtype 6, hånd, mann, menn, menn som leier, menn som leier: hudtype 6, par, stjernetegn, tvillingene
 💏	kyss, kyssing, mennesker, romantikk
+💏🏻	hudtype 1–2, kyss, kyss: hudtype 1–2, kyssing, mennesker, romantikk
+💏🏼	hudtype 3, kyss, kyss: hudtype 3, kyssing, mennesker, romantikk
+💏🏽	hudtype 4, kyss, kyss: hudtype 4, kyssing, mennesker, romantikk
+💏🏾	hudtype 5, kyss, kyss: hudtype 5, kyssing, mennesker, romantikk
+💏🏿	hudtype 6, kyss, kyss: hudtype 6, kyssing, mennesker, romantikk
 👩‍❤‍💋‍👨	kvinne, kyss, kyss: kvinne, mann, kyssing, mann, mennesker, romantikk
 👨‍❤‍💋‍👨	kyss, kyss: mann, mann, kyssing, mann, mennesker, romantikk
 👩‍❤‍💋‍👩	kvinne, kyss, kyss: kvinne, kvinne, kyssing, mennesker, romantikk
 💑	hjerte, kjærlighet, mennesker, par med hjerte, romantikk
+💑🏻	hjerte, hudtype 1–2, kjærlighet, mennesker, par med hjerte, par med hjerte: hudtype 1–2, romantikk
+💑🏼	hjerte, hudtype 3, kjærlighet, mennesker, par med hjerte, par med hjerte: hudtype 3, romantikk
+💑🏽	hjerte, hudtype 4, kjærlighet, mennesker, par med hjerte, par med hjerte: hudtype 4, romantikk
+💑🏾	hjerte, hudtype 5, kjærlighet, mennesker, par med hjerte, par med hjerte: hudtype 5, romantikk
+💑🏿	hjerte, hudtype 6, kjærlighet, mennesker, par med hjerte, par med hjerte: hudtype 6, romantikk
 👩‍❤‍👨	hjerte, kjærlighet, kvinne, mann, mennesker, par med hjerte, par med hjerte: kvinne, mann, romantikk
 👨‍❤‍👨	hjerte, kjærlighet, mann, mennesker, par med hjerte, par med hjerte: mann, mann, romantikk
 👩‍❤‍👩	hjerte, kjærlighet, kvinne, mennesker, par med hjerte, par med hjerte: kvinne, kvinne, romantikk
@@ -1979,15 +2639,15 @@
 🗣️	fjes, hode, silhuett, snakke, snakkende hode i profil, snakker
 👤	byste, menneske, silhuett, silhuett av byste
 👥	byste, menneske, silhuett, silhuett av byster
-🫂	farvel, hadet, hei, klem, takk
+🫂	farvel, ha det, hadet, hei, klem, takk
 👣	avtrykk, fot, fotavtrykk, fotspor, kropp, spor
 🦰	rødhåring, rødt hår
 🦱	afrikansk, afro, kruset hår, krøllet
 🦳	gammel, grå, grått hår, hvit, hår
-🦲	barbert, hårløs, kjemoterapi, skallet, uten hår
+🦲	barbert, cellegiftbehandling, hårløs, kjemoterapi, skallet, uten hår
 🐵	ape, apefjes, dyr, fjes
 🐒	ape, dyr
-🦍	dyr, gorilla
+🦍	ape, dyr, gorilla
 🦧	ape, orangutang
 🐶	dyr, fjes, hund, hundefjes
 🐕️	dyr, hund, valp
@@ -2028,7 +2688,7 @@
 🐘	dyr, elefant
 🦣	dyr, mammut, stor, støttenner, ull, utdødd
 🦏	dyr, horn, nese, neshorn
-🦛	flodhest
+🦛	dyr, flodhest
 🐭	dyr, fjes, mus, musefjes
 🐁	dyr, mus
 🐀	dyr, rotte
@@ -2064,9 +2724,9 @@
 🦉	dyr, fugl, ugle, vis
 🦤	Mauritius, dodo, dronte, stor, utdødd
 🪶	fjær, fjærdrakt, fugl, lett
-🦩	flamingo, prangende, tropisk
-🦚	fugl, prangende, påfugl, stolt
-🦜	fugl, papegøye, pirat, snakkende, snakker
+🦩	dyr, flamingo, fugl, prangende, tropisk
+🦚	dyr, fugl, prangende, påfugl, stolt
+🦜	dyr, fugl, papegøye, pirat, snakkende, snakker
 🐸	dyr, fjes, frosk
 🐊	dyr, krokodille
 🐢	dyr, skilpadde
@@ -2083,9 +2743,10 @@
 🐟️	dyr, fisk, fiskene, stjernebilde, stjernetegn
 🐠	dyr, fisk, tropisk, tropisk fisk
 🐡	dyr, fisk, kulefisk
-🦈	fisk, hai
+🦈	dyr, fisk, hai
 🐙	blekksprut, bløtdyr, dyr
 🐚	dyr, skjell, spiralskjell
+🪸	dyr, hav, korall, korallrev
 🐌	dyr, snegle
 🦋	dyr, insekt, pen, sommer, sommerfugl
 🐛	dyr, insekt, kryp, larve, åme
@@ -2096,15 +2757,16 @@
 🦗	dyr, gresshoppe, insekt
 🪳	dyr, insekt, kakerlakk, utøy
 🕷️	dyr, edderkopp, insekt
-🕸️	edderkopp, nett, spindelvev
+🕸️	dyr, edderkopp, nett, spindelvev
 🦂	dyr, skorpion, skorpionen, stjernebilde, stjernetegn
-🦟	feber, insekt, malaria, mygg, sykdom, virus
+🦟	dyr, feber, insekt, malaria, mygg, sykdom, virus
 🪰	dyr, flue, forråtnelse, insekt, larver, råtne, sykdom
 🪱	dyr, leddorm, makk, mark, meitemakk, meitemark, parasitt
 🦠	amøbe, bakterie, mikrobe, virus
 💐	blomst, blomster, bukett, romantikk
 🌸	blomst, kirsebær, kirsebærblomst
 💮	blomst, blomsterstempel, hvit blomst, stempel
+🪷	India, Vietnam, blomst, buddhisme, hinduisme, lotusblomst, renhet
 🏵️	plante, rosett
 🌹	blomst, rose
 🥀	blomst, tørket, vissen, vissen blomst
@@ -2125,6 +2787,8 @@
 🍁	blad, høstblad, lønn, lønneblad
 🍂	blad, fallende, høstblad, løv
 🍃	blader i vind, blåse, blåser, blåst, løv i vind, vind
+🪹	bygge rede, slå seg ned, tomt rede
+🪺	bygge rede, rede med egg, slå seg ned
 🍇	drueklase, druer, frukt
 🍈	frukt, honningmelon, melon
 🍉	frukt, melon, vannmelon
@@ -2158,6 +2822,7 @@
 🧅	løk, smakstilsetning
 🍄	fluesopp, sopp
 🥜	grønnsak, mat, nøtt, peanøtt, peanøtter
+🫘	belgfrukt, bønner, kidneybønner, mat
 🌰	kastanje, kastanjenøtt, nøtt
 🍞	brød, loff
 🥐	brød, croissant, fransk, mat
@@ -2198,7 +2863,7 @@
 🍙	japansk, onigiri, restaurant, ris, risball
 🍚	kokt, kokt ris, restaurant, ris
 🍛	curry, karri, karriris, restaurant, ris
-🍜	matbolle, matbolle som damper, nudelbolle, restaurant
+🍜	matbolle, matbolle som damper, nudelbolle, ramen, restaurant
 🍝	pasta, restaurant, spagetti
 🍠	bakt, bakt søtpotet, potet, restaurant, søtpotet
 🍢	oden, restaurant, sjømat, sjømat på pinne, sjømatspyd
@@ -2243,6 +2908,7 @@
 🍻	bar, halvliter, pils, øl, ølglass, ølkrus, ølkrus som skåler
 🥂	drink, feiring, glass, glass som skåler, skål
 🥃	brennevin, glass, shot, sprit, whisky, whiskyglass
+🫗	drikke, glass, helle ut, helle væske, søle, tomt
 🥤	brus, juice, jus, kopp med sugerør
 🧋	boble-te, bobler, kuler, melk, perler, te
 🧃	drikkekartong, juicekartong, juskartong
@@ -2253,11 +2919,12 @@
 🍴	gaffel, kniv, kniv og gaffel, matlaging
 🥄	bestikk, skje
 🔪	kniv, kokkekniv, matlaging, verktøy, våpen
+🫙	beholder, krukke, mos, oppbevare, pålegg, syltetøy, tom
 🏺	amfora, drikke, krukke, matlaging, stjernebilde, stjernetegn, vannmannen
-🌍	Afrika, Europa, jorden, jordklode med Europa og Afrika
-🌎️	Amerika, USA, jorden, jordklode med Amerika
-🌏	Asia, Australia, jorden, jordklode med Asia og Australia
-🌐	jorden, jordklode med meridianer, lengde- og breddegrader
+🌍	Afrika, Europa, jorden, jordklode med Europa og Afrika, verden
+🌎️	Amerika, USA, jorden, jordklode med Amerika, verden
+🌏	Asia, Australia, jorden, jordklode med Asia og Australia, verden
+🌐	jorden, jordklode med meridianer, lengde- og breddegrader, verden
 🗺️	kart, verden, verdenskart
 🗾	Japan, kart, kart over Japan
 🧭	kompass, magnetisk, navigasjon, orientering
@@ -2299,7 +2966,7 @@
 🗽	Frihetsgudinnen, frihet, statue
 ⛪️	bygning, kirke, kors, kristen, religion
 🕌	bygning, islam, moské, muslim, religion
-🛕	hindu, hindutempel, tempel
+🛕	hindu, hindutempel, religion, tempel
 🕍	bygning, jøde, jødisk, religion, synagoge, tempel
 ⛩️	Shinto-alter, alter, religion, shinto
 🕋	Kaba, islam, muslim, religion
@@ -2315,6 +2982,7 @@
 🌉	bro, bro om natten, natt
 ♨️	kilder, rykende, vame kilder, varm, varme kilder
 🎠	fornøyelsespark, hest, karusell, karusellhest, tivoli
+🛝	fornøyelsespark, leke, lekeplass, sklie
 🎡	fornøyelsespark, pariserhjul, tivoli
 🎢	berg-og-dal-bane, fornøyelsespark, tivoli
 💈	barberer, barberersøyle, barberskilt, frisør, frisørsalong
@@ -2330,7 +2998,7 @@
 🚊	fremkomstmiddel, trikk
 🚝	fremkomstmiddel, monorail
 🚞	bane, fjell, fjellbane, fremkomstmiddel
-🚋	fremkomstmiddel, lokaltog, trikk, trikkevogn, trolleybuss, vogn
+🚋	fremkomstmiddel, trikk, trikkevogn, vogn
 🚌	buss, fremkomstmiddel
 🚍️	buss, fremkomstmiddel, motgående, motgående buss
 🚎	buss, fremkomstmiddel, trolleybuss
@@ -2348,7 +3016,7 @@
 🚚	bil, kjøretøy, varebil
 🚛	bil, kjøretøy, lastebil, trailer, trekkvogn
 🚜	kjøretøy, traktor
-🏎️	bil, milløp, motorsport, racerbil
+🏎️	bil, billøp, motorsport, racerbil
 🏍️	motorsport, motorsykkel, motorsyklist
 🛵	motor, motorsykkel, scooter
 🦽	manuell rullestol, tilgjengelighet
@@ -2363,12 +3031,14 @@
 🛤️	jernbane, jernbanespor, tog
 🛢️	fat, olje, oljefat, tønne
 ⛽️	bensin, bensinpumpe, bensinstasjon, diesel, stasjon
+🛞	bildekk, dreie, felg, hjul, rulle, sirkel
 🚨	bil, kjøretøy, lys, politi, politilys, roterende, signal
 🚥	horisontale lys, horisontale trafikklys, trafikk
 🚦	trafikk, vertikale lys, vertikale trafiklys
 🛑	skilt, stopp, stoppskilt, åttekantet
 🚧	anleggsarbeid, byggeplass, byggeskilt, skilt
 ⚓️	anker, båt, skip, verktøy
+🛟	badering, flyte, livbøye, livbøyle, livredning, redningsaksjon, redningsbøye, redningsbøyle
 ⛵️	båt, seilbåt
 🛶	båt, kano
 🚤	båt, fartøy, speedbåt
@@ -2438,10 +3108,10 @@
 ☀️	lys, lyst, sol, solfylt, stråler, verdensrommet, vær
 🌝	ansikt, fullmåne, fullmåne med ansikt, fullmåneansikt, måne, måne med ansikt
 🌞	ansikt, lys, sol, solansikt
-🪐	planet med ringer, saturn
-⭐️	stjerne
-🌟	glitrende, lysende stjerne, skinnende, stjerne
-🌠	fallende stjerne, faller, stjerne, stjerneskudd
+🪐	planet med ringer, saturn, verdensrommet
+⭐️	stjerne, verdensrommet
+🌟	glitrende, lysende stjerne, skinnende, stjerne, verdensrommet
+🌠	fallende stjerne, faller, stjerne, stjerneskudd, verdensrommet
 🌌	galakse, melkeveien, verdensrommet
 ☁️	sky, vær
 ⛅️	sky, sol, sol bak sky, sol og sky
@@ -2524,19 +3194,21 @@
 🛷	kjelke, slede
 🥌	curlingstein, sport, stein
 🎯	blink, dart, midt i blinken, mål, pilspill, treff
-🪀	jojo, leke, opp og ned
+🪀	jojo, leke, opp og ned, yo-yo, yoyo
 🪁	fly, papirdrage, sveve
 🎱	8, biljard, spill, åtte, åtterkule
 🔮	krystallkule, spådom, spådommer
 🪄	heks, magi, trollmann, trylle, tryllestav
 🧿	amulett, charm, nazar, ondt øye, talisman
-🎮️	konsoll, kontroller, spill, spillkonsoll, spillkontroller, videospill
+🪬	Fatima, Maria, Miriam, amulett, beskyttelse, hamsa, hånd, lykkebringer
+🎮️	TV-spill, konsoll, kontroller, spill, spillkonsoll, spillkontroller, videospill
 🕹️	joystick, spill, styrespak, styrespake, videospill
 🎰	spill, spilleautomat
 🎲	spill, terning, terningkast, terningspill
 🧩	bit, brikke, del, pekepinn, puslespill, puslespillbrikke
 🧸	bamse, leke, teddybjørn
 🪅	feiring, fest, piñata
+🪩	dans, disco, diskokule, diskotek, fest, glitter, speilkule
 🪆	dukke, hul, matrjosjka, matruska, russisk, russland
 ♠️	farge, kort, spar, spill
 ♥️	farge, hjerter, kort, spill
@@ -2632,6 +3304,7 @@
 📟️	kommunikasjon, personsøker, telefon
 📠	faksmaskin, kommunikasjon, telefon
 🔋	batteri, energilagring, strøm
+🪫	elektronikk, lavt batteri, lite batteri, lite energi
 🔌	elektrisitet, elektrisk, plugg, støpsel
 💻️	PC, bærbar datamaskin, datamaskin, maskin
 🖥️	PC, datamaskin, stasjonær, stasjonær datamaskin
@@ -2743,7 +3416,7 @@
 🛠️	hammer, hammer og fastnøkkel, skiftenøkkel, verktøy
 🗡️	dolk, kniv, våpen
 ⚔️	kryss, sverd, sverd i kryss, våpen
-🔫	pistol, revolver, våpen
+🔫	leketøysvåpen, pistol, vannpistol
 🪃	australia, boomerang, bumerang, retur, tilbake
 🏹	Skytten, bue, bueskytter, pil, pil og bue, stjernebilde, stjernetegn, våpen
 🛡️	skjold, våpen
@@ -2772,7 +3445,9 @@
 🩸	bloddråpe, blodgiver, medisin, mens, menstruasjon
 💊	lege, medisin, pille, tablett
 🩹	behandling, plaster, sår
+🩼	hjelpemiddel, krykke, pinne, skadet, stokk, ufør
 🩺	hjerte, lege, medisin, stetoskop
+🩻	bein, doktor, lege, ribbein, ribben, røntgen, skjelett, undersøkelse
 🚪	dør
 🛗	heis, tilgjengelighet
 🪞	refleksjon, speil, speilbilde
@@ -2793,6 +3468,7 @@
 🧻	rull med papir, toalettpapir, tørkepapir, tørkerull
 🪣	beholder, bøtte, kar, spann
 🧼	bad, skum, såpe, såpeskål, såpestykke, vaske
+🫧	bobler, rap, rengjøre, rense, såpe, under vann, vaske
 🪥	bad, baderom, børste, dental, hygiene, ren, tannbørste, tenner
 🧽	absorberende, porøs, rengjøre, svamp, vaske
 🧯	brann, brannslokkingsapparat, brannslukningsapparat, slokke, slukke
@@ -2801,8 +3477,9 @@
 ⚰️	begravelse, død, kiste
 🪦	grav, gravplass, gravstein, kirkegård
 ⚱️	begravelse, død, kremasjon, urne
-🗿	moai, moai-statue, statue
+🗿	ansiktsstatue, moai, moai-statue, påskeøya, statue
 🪧	demonstrasjon, plakat, protest, skilt
+🪪	ID, ID-kort, adgangskort, førerkort, identifikasjon, leg, legitimasjon, sikkerhet
 🏧	automatisk, bank, minibank, minibankskilt, penger
 🚮	avfall, avfallsskilt, skilt, søppel
 🚰	drikke, drikkevann, vann
@@ -2810,7 +3487,7 @@
 🚹️	do, herrer, herretoalett, mannesymbol, toalett, wc
 🚺️	damer, dametoalett, do, kvinnesymbol, toalett, wc
 🚻	WC, do, toalett, toalettskilt
-🚼️	babyskilt, babysymbol, stellestasjon
+🚼️	babyskilt, babysymbol, stellerom, stellestasjon
 🚾	WC, do, toalett
 🛂	kontroll, pass, passkontroll
 🛃	grense, toll
@@ -2824,7 +3501,7 @@
 🚭️	forbudt, ikke, ikke tillatt, nei, røyking, røyking forbudt, skilt
 🚯	forsøpling ikke tillatt, ikke avfall, ingen kasting, skilt
 🚱	ikke drikkbart, ikke drikkevann, vann
-🚷	fotgjenger, fotgjengere, fotgjengere forbudt, gående, ikke, ikke tillatt, nei, skilt
+🚷	fotgjenger, fotgjengere, fotgjengere forbudt, gående, ikke, ikke tillatt, nei
 📵	forbudt, ikke, ikke tillatt, ingen telefonsamtaler, mobil, mobiltelefon, mobiltelefon ikke tillatt, nei, telefon
 🔞	18, aldersgrense 18 år, attenårsgrense, ingen under 18, under 18
 ☢️	radioaktiv, radioaktivitet, radioaktivt
@@ -2839,6 +3516,7 @@
 ↖️	nordvest, pil, pil opp-venstre, retning
 ↕️	pil, pil opp og ned
 ↔️	pil, pil venstre-høyre
+↮	pil begge veier med strek
 ↩️	pil, pil som bøyer mot venstre
 ↪️	pil, pil som bøyer mot høyre
 ⤴️	pil, pil som bøyer opp
@@ -2854,7 +3532,7 @@
 ⚛️	ateist, atom, atomsymbol
 🕉️	hindu, om, religion
 ✡️	David, Davidstjerne, jøde, jødisk, religion, stjerne
-☸️	buddhist, dharma, dharmas hjul, hjul, religion
+☸️	buddhist, dharma, dharmachakra, dharmas hjul, hjul, religion
 ☯️	religion, tao, taoist, yang, yin, yin yang
 ✝️	kors, kristen, latinsk kors, religion
 ☦️	kors, kristen, ortodoks, ortodokst kors, religion
@@ -2902,17 +3580,18 @@
 ♀️	kvinne, kvinnesymbol
 ♂️	mann, mannssymbol
 ⚧️	transperson, transperson-symbol
-✖️	avbryt, gangetegn, multiplikasjon, multiplisere, x, ×
-➕	+, fortegn, matte, pluss, plusstegn, positivt
-➖	-, fortegn, matte, minus, minustegn, negativt, −
-➗	dele, deletegn, deling, divisjon, divisjonstegn, ÷
+✖️	avbryt, gange, gangetegn, matte, multiplikasjon, multiplisere, x, ×
+➕	+, addisjon, fortegn, matte, pluss, plusstegn, positivt
+➖	-, fortegn, matte, minus, minustegn, negativt, subtraksjon, −
+➗	dele, deletegn, deling, divisjon, divisjonstegn, matte, ÷
+🟰	fett likhetstegn, likhetstegn, likhetstegn i fet skrift, matematikk
 ♾️	for alltid, grenseløs, uendelig, universal, universell
 ‼️	!, !!, bangbang, dobbelt utropstegn, tegn, tegnsetting, utropstegn
-⁉️	!, !?, ?, spørsmål, spørsmålstegn, tegn, tegnsetting, utrop, utropstegn, utropstegn og spørsmålstegn
-❓️	?, spørsmål, spørsmålstegn
+⁉️	!, !?, ?, interrobang, spørsmålstegn, tegn, tegnsetting, utropstegn, utropstegn og spørsmålstegn
+❓️	?, rødt spørsmålstegn, spørsmål, spørsmålstegn
 ❔	?, hvitt spørsmålstegn, spørsmål
 ❕	!, hvitt utropstegn, utrop
-❗️	!, tegn, tegnsetting, utrop, utropstegn
+❗️	!, rødt utropstegn, tegn, tegnsetting, utrop, utropstegn
 〰️	bølge, bølgestrek, bølget bindestrek, tegn for lang lyd
 💱	bank, penger, valuta, valutaveksling, veksling
 💲	dollar, dollartegn, penger, stort dollartegn
@@ -3071,7 +3750,7 @@
 🇧🇿	flagg, flagg: Belize
 🇨🇦	flagg, flagg: Canada
 🇨🇨	flagg, flagg: Kokosøyene
-🇨🇩	flagg, flagg: Kongo-Kinshasa
+🇨🇩	flagg, flagg: Kongo
 🇨🇫	flagg, flagg: Den sentralafrikanske republikk
 🇨🇬	flagg, flagg: Kongo-Brazzaville
 🇨🇭	flagg, flagg: Sveits
@@ -3130,7 +3809,7 @@
 🇬🇺	flagg, flagg: Guam
 🇬🇼	flagg, flagg: Guinea-Bissau
 🇬🇾	flagg, flagg: Guyana
-🇭🇰	flagg, flagg: Hongkong S.A.R. Kina
+🇭🇰	flagg, flagg: Hongkong SAR Kina
 🇭🇲	flagg, flagg: Heard- og McDonaldøyene
 🇭🇳	flagg, flagg: Honduras
 🇭🇷	flagg, flagg: Kroatia
@@ -3184,7 +3863,7 @@
 🇲🇱	flagg, flagg: Mali
 🇲🇲	flagg, flagg: Myanmar (Burma)
 🇲🇳	flagg, flagg: Mongolia
-🇲🇴	flagg, flagg: Macao S.A.R. Kina
+🇲🇴	flagg, flagg: Macao SAR Kina
 🇲🇵	flagg, flagg: Nord-Marianene
 🇲🇶	flagg, flagg: Martinique
 🇲🇷	flagg, flagg: Mauritania
@@ -3292,6 +3971,50 @@
 🏴󠁧󠁢󠁥󠁮󠁧󠁿	flagg, flagg: England
 🏴󠁧󠁢󠁳󠁣󠁴󠁿	flagg, flagg: Skottland
 🏴󠁧󠁢󠁷󠁬󠁳󠁿	flagg, flagg: Wales
+¤	ukjent valuta
+¢	cent, valuta
+$	MXN, USD, dollar, peso, valuta
+£	EGP, GBP, britiske pund, pund, valuta
+¥	CNY, JPY, japanske yen, kinesiske yuan, valuta, yen
+֏	armenske dram
+؋	afghanske afghani
+৳	bangladeshiske taka
+฿	thailandske baht
+៛	kambodsjanske riel
+₡	costaricanske colón
+₢	cruzeiro
+₣	franske franc
+₤	lire
+₥	mill, tusendels valutaenhet, valuta
+₦	nigerianske naira
+₧	spanske peseta
+₩	KPW, KRW, valuta, won
+₪	nye israelske shekler
+₫	vietnamesiske dong
+€	EUR, euro, valuta
+₭	laotiske kip
+₮	mongolske tugrik
+₰	tyske pfennig
+₱	PHP, peso, valuta
+₲	paraguayanske guarani
+₳	austral
+₴	ukrainske hryvnia
+₵	ghanesiske cedi
+₶	livre tournois
+₷	spesmilo
+₸	kasakhstanske tenge
+₹	INR, indiske rupi, rupi, valuta
+₺	tyrkiske lire
+₼	aserbajdsjanske manat
+₽	RUB, rubler, russiske rubler, valuta
+₾	georgiske lari
+₿	BTC, bitcoin, kryptovaluta, valuta
+₨	rupier
+﷼	rial
+¹	en, hevet, hevet ettall, i første, opphøyd i første
+²	hevet, hevet totall, i andre, kvadrat, opphøyd i andre, to
+³	hevet, hevet tretall, i tredje, kubikk, opphøyd i tredje, tre
+µ	gresk my, liten my, mikro, mikrotegn, milliondel, milliontedels, my
 🏻	emojimodifikator, fitzpatrick, hud, hudfarge, hudtype 1–2, type 1–2
 🏼	emojimodifikator, fitzpatrick, hud, hudfarge, hudtype 3, type 3
 🏽	emojimodifikator, fitzpatrick, hud, hudfarge, hudtype 4, type 4
